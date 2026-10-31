@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pyjwt
+passlib[bcrypt]
+bcrypt
+alembic
+python-multipart
+# psycopg2-binary   # uncomment for PostgreSQL
+# pytest            # dev dependency – install separately
+# httpx             # needed for TestClient in tests
