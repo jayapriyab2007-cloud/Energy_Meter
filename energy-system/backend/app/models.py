@@ -100,6 +100,21 @@ class Timetable(Base):
     status = Column(String)
 
 
+class TimetableException(Base):
+    """Temporary or one-off timetable override/exception for a room."""
+
+    __tablename__ = "timetable_exceptions"
+    id = Column(Integer, primary_key=True)
+    room_id = Column(Integer, ForeignKey("rooms.id"), index=True)
+    start_ts = Column(DateTime, nullable=False, index=True)
+    end_ts = Column(DateTime, nullable=False, index=True)
+    activity = Column(String, nullable=False)
+    reason = Column(String, default="")
+    created_at = Column(DateTime, default=dt.datetime.utcnow)
+
+    room = relationship("Room", backref="exceptions")
+
+
 class Reading(Base):
     __tablename__ = "meter_readings"
     id = Column(Integer, primary_key=True)

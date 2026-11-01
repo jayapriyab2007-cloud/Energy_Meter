@@ -5,7 +5,7 @@ from sqlalchemy.orm import Session
 
 from ..auth import get_current_user, require_admin
 from ..database import get_db
-from ..models import Alert, Audit, Room
+from ..models import Alert, Audit, Department, Room
 from ..schemas import AlertNote
 
 router = APIRouter(prefix="/api", tags=["alerts"])
@@ -22,8 +22,8 @@ def _my_room_ids(db: Session, u: dict):
 def list_alerts(u: dict = Depends(get_current_user), db: Session = Depends(get_db)):
     ids = _my_room_ids(db, u)
     rows = (
-        db.query(Alert, Room.name)
-        .join(Room)
+        db.query(Alert, Room)
+        .join(Room, Alert.room_id == Room.id)
         .filter(Alert.room_id.in_(ids))
         .order_by(Alert.id.desc())
         .limit(100)
@@ -31,7 +31,16 @@ def list_alerts(u: dict = Depends(get_current_user), db: Session = Depends(get_d
     )
     fields = ("id", "ts", "kind", "severity", "power", "baseline",
               "explanation", "action", "status", "note")
-    return [{**{c: getattr(a, c) for c in fields}, "room": rname} for a, rname in rows]
+    out = []
+    for a, r in rows:
+        item = {c: getattr(a, c) for c in fields}
+        item["room_id"] = r.id
+        item["room"] = r.name
+        item["block"] = r.block
+        item["floor"] = r.floor
+        item["department"] = r.department.name if r.department else "Unassigned"
+        out.append(item)
+    return out
 
 
 @router.patch("/alerts/{aid}")

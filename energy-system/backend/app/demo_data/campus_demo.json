@@ -1,0 +1,170 @@
+{
+  "_comment": "Realistic college campus layout for Smart Energy Demo. Marked as demo data.",
+  "departments": [
+    { "name": "Administration", "home_block": "A" },
+    { "name": "Computer Science and Engineering (CSE)", "home_block": "A" },
+    { "name": "Computer Science and Design (CSD)", "home_block": "A" },
+    { "name": "Information Technology (IT)", "home_block": "A" },
+    { "name": "Biotechnology", "home_block": "B" },
+    { "name": "Mechatronics Engineering (MCT)", "home_block": "B" },
+    { "name": "Electronics and Communication Engineering (ECE)", "home_block": "B" },
+    { "name": "Civil Engineering", "home_block": "C" },
+    { "name": "Electrical and Electronics Engineering (EEE)", "home_block": "C" },
+    { "name": "Automobile Engineering", "home_block": "C" },
+    { "name": "General Science and Humanities", "home_block": "D" }
+  ],
+  "blocks": [
+    {
+      "name": "A",
+      "description": "Administration & Computing Block",
+      "floors": [
+        {
+          "number": 1,
+          "label": "Ground Floor - Administration",
+          "rooms": [
+            { "code": "A101", "name": "Principal's Office", "type": "Office", "dept": "Administration" },
+            { "code": "A102", "name": "Administration Office", "type": "Office", "dept": "Administration" },
+            { "code": "A103", "name": "Accounts Office", "type": "Office", "dept": "Administration" },
+            { "code": "A104", "name": "Conference Room", "type": "Office", "dept": "Administration" }
+          ]
+        },
+        {
+          "number": 2,
+          "label": "Second Floor - CSE",
+          "rooms": [
+            { "code": "A201", "name": "CSE Classroom 1", "type": "Classroom", "dept": "Computer Science and Engineering (CSE)" },
+            { "code": "A202", "name": "CSE Classroom 2", "type": "Classroom", "dept": "Computer Science and Engineering (CSE)" },
+            { "code": "A203", "name": "CSE Lab 1", "type": "Lab", "dept": "Computer Science and Engineering (CSE)" },
+            { "code": "A204", "name": "CSE Lab 2", "type": "Lab", "dept": "Computer Science and Engineering (CSE)" }
+          ]
+        },
+        {
+          "number": 3,
+          "label": "Third Floor - CSD and IT",
+          "rooms": [
+            { "code": "A301", "name": "CSD Classroom", "type": "Classroom", "dept": "Computer Science and Design (CSD)" },
+            { "code": "A302", "name": "CSD Lab", "type": "Lab", "dept": "Computer Science and Design (CSD)" },
+            { "code": "A303", "name": "IT Classroom", "type": "Classroom", "dept": "Information Technology (IT)" },
+            { "code": "A304", "name": "IT Lab", "type": "Lab", "dept": "Information Technology (IT)" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B",
+      "description": "Bio, ECE & Mechatronics Block",
+      "floors": [
+        {
+          "number": 1,
+          "label": "Ground Floor - Seminar Hall & Biotech",
+          "rooms": [
+            { "code": "B101", "name": "Seminar Hall", "type": "Seminar Hall", "dept": "Administration" },
+            { "code": "B102", "name": "Biotech Classroom", "type": "Classroom", "dept": "Biotechnology" },
+            { "code": "B103", "name": "Biotech Lab 1", "type": "Lab", "dept": "Biotechnology" },
+            { "code": "B104", "name": "Biotech Lab 2", "type": "Lab", "dept": "Biotechnology" }
+          ]
+        },
+        {
+          "number": 2,
+          "label": "Second Floor - MCT & ECE",
+          "rooms": [
+            { "code": "B201", "name": "MCT Classroom", "type": "Classroom", "dept": "Mechatronics Engineering (MCT)" },
+            { "code": "B202", "name": "MCT Lab", "type": "Lab", "dept": "Mechatronics Engineering (MCT)" },
+            { "code": "B203", "name": "MCT Workshop", "type": "Workshop", "dept": "Mechatronics Engineering (MCT)" },
+            { "code": "B204", "name": "ECE Classroom 1", "type": "Classroom", "dept": "Electronics and Communication Engineering (ECE)" }
+          ]
+        },
+        {
+          "number": 3,
+          "label": "Third Floor - ECE & MCT",
+          "rooms": [
+            { "code": "B301", "name": "ECE Classroom 2", "type": "Classroom", "dept": "Electronics and Communication Engineering (ECE)" },
+            { "code": "B302", "name": "ECE Lab 1", "type": "Lab", "dept": "Electronics and Communication Engineering (ECE)" },
+            { "code": "B303", "name": "ECE Lab 2", "type": "Lab", "dept": "Electronics and Communication Engineering (ECE)" },
+            { "code": "B304", "name": "MCT Classroom 2", "type": "Classroom", "dept": "Mechatronics Engineering (MCT)" }
+          ]
+        },
+        {
+          "number": 4,
+          "label": "Fourth Floor - ECE & Faculty",
+          "rooms": [
+            { "code": "B401", "name": "ECE Classroom 3", "type": "Classroom", "dept": "Electronics and Communication Engineering (ECE)" },
+            { "code": "B402", "name": "ECE Lab 3", "type": "Lab", "dept": "Electronics and Communication Engineering (ECE)" },
+            { "code": "B403", "name": "Biotech Classroom 2", "type": "Classroom", "dept": "Biotechnology" },
+            { "code": "B404", "name": "Faculty Room", "type": "Office", "dept": "Electronics and Communication Engineering (ECE)" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C",
+      "description": "Core Engineering Block (Civil, EEE, Automobile)",
+      "floors": [
+        {
+          "number": 1,
+          "label": "Ground Floor - Civil Engineering",
+          "rooms": [
+            { "code": "C101", "name": "Civil Classroom", "type": "Classroom", "dept": "Civil Engineering" },
+            { "code": "C102", "name": "Survey Lab", "type": "Lab", "dept": "Civil Engineering" },
+            { "code": "C103", "name": "Concrete Lab", "type": "Lab", "dept": "Civil Engineering" }
+          ]
+        },
+        {
+          "number": 2,
+          "label": "Second Floor - EEE",
+          "rooms": [
+            { "code": "C201", "name": "EEE Classroom", "type": "Classroom", "dept": "Electrical and Electronics Engineering (EEE)" },
+            { "code": "C202", "name": "EEE Lab", "type": "Lab", "dept": "Electrical and Electronics Engineering (EEE)" },
+            { "code": "C203", "name": "Machines Lab", "type": "Workshop", "dept": "Electrical and Electronics Engineering (EEE)" }
+          ]
+        },
+        {
+          "number": 3,
+          "label": "Third Floor - Automobile Engineering",
+          "rooms": [
+            { "code": "C301", "name": "Automobile Classroom", "type": "Classroom", "dept": "Automobile Engineering" },
+            { "code": "C302", "name": "Automobile Lab", "type": "Lab", "dept": "Automobile Engineering" },
+            { "code": "C303", "name": "Automobile Workshop", "type": "Workshop", "dept": "Automobile Engineering" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D",
+      "description": "Academic & Sciences Block",
+      "floors": [
+        {
+          "number": 1,
+          "label": "Ground Floor",
+          "rooms": [
+            { "code": "D101", "name": "Physics Classroom", "type": "Classroom", "dept": "General Science and Humanities" },
+            { "code": "D102", "name": "Physics Lab", "type": "Lab", "dept": "General Science and Humanities" },
+            { "code": "D103", "name": "Chemistry Classroom", "type": "Classroom", "dept": "General Science and Humanities" },
+            { "code": "D104", "name": "Chemistry Lab", "type": "Lab", "dept": "General Science and Humanities" }
+          ]
+        },
+        {
+          "number": 2,
+          "label": "Second Floor",
+          "rooms": [
+            { "code": "D201", "name": "Maths Classroom 1", "type": "Classroom", "dept": "General Science and Humanities" },
+            { "code": "D202", "name": "Maths Classroom 2", "type": "Classroom", "dept": "General Science and Humanities" },
+            { "code": "D203", "name": "Language Lab", "type": "Lab", "dept": "General Science and Humanities" },
+            { "code": "D204", "name": "Tutorial Room 1", "type": "Classroom", "dept": "General Science and Humanities" }
+          ]
+        },
+        {
+          "number": 3,
+          "label": "Third Floor",
+          "rooms": [
+            { "code": "D301", "name": "Tutorial Room 2", "type": "Classroom", "dept": "General Science and Humanities" },
+            { "code": "D302", "name": "Seminar Room", "type": "Classroom", "dept": "General Science and Humanities" },
+            { "code": "D303", "name": "Innovation Lab", "type": "Lab", "dept": "General Science and Humanities" },
+            { "code": "D304", "name": "Faculty Lounge", "type": "Office", "dept": "General Science and Humanities" }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

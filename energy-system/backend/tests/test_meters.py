@@ -5,8 +5,8 @@ def test_meters_crud_and_enable(client, admin_token):
     res = client.post(
         "/api/meters",
         json={
-            "meter_id": "METER_BLD_A_MAIN",
-            "name": "Block A Main Meter",
+            "meter_id": "METER_BLD_TEST_SPECIAL",
+            "name": "Block Test Special Meter",
             "measurement_level": "building",
             "block": "A",
             "data_source": "hardware",

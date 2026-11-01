@@ -12,6 +12,7 @@ from .floors import router as floors_router
 from .departments import router as departments_router
 from .meters import router as meters_router
 from .devices import router as devices_router
+from .demo import router as demo_router
 
 __all__ = [
     "auth_router",
@@ -26,5 +27,6 @@ __all__ = [
     "departments_router",
     "meters_router",
     "devices_router",
+    "demo_router",
 ]
 

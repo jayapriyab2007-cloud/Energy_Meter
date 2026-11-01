@@ -1,0 +1,2745 @@
+room_code,day,hour,activity,status
+A101,0,9,Principal's Office Regular Hours,Occupied
+A101,0,10,Principal's Office Regular Hours,Occupied
+A101,0,11,Principal's Office Regular Hours,Occupied
+A101,0,12,Principal's Office Regular Hours,Occupied
+A101,0,13,Lunch,Break
+A101,0,14,Principal's Office Regular Hours,Occupied
+A101,0,15,Principal's Office Regular Hours,Occupied
+A101,0,16,Principal's Office Regular Hours,Occupied
+A101,1,9,Principal's Office Regular Hours,Occupied
+A101,1,10,Principal's Office Regular Hours,Occupied
+A101,1,11,Principal's Office Regular Hours,Occupied
+A101,1,12,Principal's Office Regular Hours,Occupied
+A101,1,13,Lunch,Break
+A101,1,14,Principal's Office Regular Hours,Occupied
+A101,1,15,Principal's Office Regular Hours,Occupied
+A101,1,16,Principal's Office Regular Hours,Occupied
+A101,2,9,Principal's Office Regular Hours,Occupied
+A101,2,10,Principal's Office Regular Hours,Occupied
+A101,2,11,Principal's Office Regular Hours,Occupied
+A101,2,12,Principal's Office Regular Hours,Occupied
+A101,2,13,Lunch,Break
+A101,2,14,Principal's Office Regular Hours,Occupied
+A101,2,15,Principal's Office Regular Hours,Occupied
+A101,2,16,Principal's Office Regular Hours,Occupied
+A101,3,9,Principal's Office Regular Hours,Occupied
+A101,3,10,Principal's Office Regular Hours,Occupied
+A101,3,11,Principal's Office Regular Hours,Occupied
+A101,3,12,Principal's Office Regular Hours,Occupied
+A101,3,13,Lunch,Break
+A101,3,14,Principal's Office Regular Hours,Occupied
+A101,3,15,Principal's Office Regular Hours,Occupied
+A101,3,16,Principal's Office Regular Hours,Occupied
+A101,4,9,Principal's Office Regular Hours,Occupied
+A101,4,10,Principal's Office Regular Hours,Occupied
+A101,4,11,Principal's Office Regular Hours,Occupied
+A101,4,12,Principal's Office Regular Hours,Occupied
+A101,4,13,Lunch,Break
+A101,4,14,Principal's Office Regular Hours,Occupied
+A101,4,15,Principal's Office Regular Hours,Occupied
+A101,4,16,Principal's Office Regular Hours,Occupied
+A101,5,9,Principal's Office Half-Day Hours,Occupied
+A101,5,10,Principal's Office Half-Day Hours,Occupied
+A101,5,11,Principal's Office Half-Day Hours,Occupied
+A101,5,12,Principal's Office Half-Day Hours,Occupied
+A101,5,13,Campus Closed (Weekend),Free
+A101,5,14,Campus Closed (Weekend),Free
+A101,5,15,Campus Closed (Weekend),Free
+A101,5,16,Campus Closed (Weekend),Free
+A101,6,9,Holiday / Campus Closed,Free
+A101,6,10,Holiday / Campus Closed,Free
+A101,6,11,Holiday / Campus Closed,Free
+A101,6,12,Holiday / Campus Closed,Free
+A101,6,13,Holiday / Campus Closed,Free
+A101,6,14,Holiday / Campus Closed,Free
+A101,6,15,Holiday / Campus Closed,Free
+A101,6,16,Holiday / Campus Closed,Free
+A102,0,9,Administration Office Regular Hours,Occupied
+A102,0,10,Administration Office Regular Hours,Occupied
+A102,0,11,Administration Office Regular Hours,Occupied
+A102,0,12,Administration Office Regular Hours,Occupied
+A102,0,13,Lunch,Break
+A102,0,14,Administration Office Regular Hours,Occupied
+A102,0,15,Administration Office Regular Hours,Occupied
+A102,0,16,Administration Office Regular Hours,Occupied
+A102,1,9,Administration Office Regular Hours,Occupied
+A102,1,10,Administration Office Regular Hours,Occupied
+A102,1,11,Administration Office Regular Hours,Occupied
+A102,1,12,Administration Office Regular Hours,Occupied
+A102,1,13,Lunch,Break
+A102,1,14,Administration Office Regular Hours,Occupied
+A102,1,15,Administration Office Regular Hours,Occupied
+A102,1,16,Administration Office Regular Hours,Occupied
+A102,2,9,Administration Office Regular Hours,Occupied
+A102,2,10,Administration Office Regular Hours,Occupied
+A102,2,11,Administration Office Regular Hours,Occupied
+A102,2,12,Administration Office Regular Hours,Occupied
+A102,2,13,Lunch,Break
+A102,2,14,Administration Office Regular Hours,Occupied
+A102,2,15,Administration Office Regular Hours,Occupied
+A102,2,16,Administration Office Regular Hours,Occupied
+A102,3,9,Administration Office Regular Hours,Occupied
+A102,3,10,Administration Office Regular Hours,Occupied
+A102,3,11,Administration Office Regular Hours,Occupied
+A102,3,12,Administration Office Regular Hours,Occupied
+A102,3,13,Lunch,Break
+A102,3,14,Administration Office Regular Hours,Occupied
+A102,3,15,Administration Office Regular Hours,Occupied
+A102,3,16,Administration Office Regular Hours,Occupied
+A102,4,9,Administration Office Regular Hours,Occupied
+A102,4,10,Administration Office Regular Hours,Occupied
+A102,4,11,Administration Office Regular Hours,Occupied
+A102,4,12,Administration Office Regular Hours,Occupied
+A102,4,13,Lunch,Break
+A102,4,14,Administration Office Regular Hours,Occupied
+A102,4,15,Administration Office Regular Hours,Occupied
+A102,4,16,Administration Office Regular Hours,Occupied
+A102,5,9,Administration Office Half-Day Hours,Occupied
+A102,5,10,Administration Office Half-Day Hours,Occupied
+A102,5,11,Administration Office Half-Day Hours,Occupied
+A102,5,12,Administration Office Half-Day Hours,Occupied
+A102,5,13,Campus Closed (Weekend),Free
+A102,5,14,Campus Closed (Weekend),Free
+A102,5,15,Campus Closed (Weekend),Free
+A102,5,16,Campus Closed (Weekend),Free
+A102,6,9,Holiday / Campus Closed,Free
+A102,6,10,Holiday / Campus Closed,Free
+A102,6,11,Holiday / Campus Closed,Free
+A102,6,12,Holiday / Campus Closed,Free
+A102,6,13,Holiday / Campus Closed,Free
+A102,6,14,Holiday / Campus Closed,Free
+A102,6,15,Holiday / Campus Closed,Free
+A102,6,16,Holiday / Campus Closed,Free
+A103,0,9,Accounts Office Regular Hours,Occupied
+A103,0,10,Accounts Office Regular Hours,Occupied
+A103,0,11,Accounts Office Regular Hours,Occupied
+A103,0,12,Accounts Office Regular Hours,Occupied
+A103,0,13,Lunch,Break
+A103,0,14,Accounts Office Regular Hours,Occupied
+A103,0,15,Accounts Office Regular Hours,Occupied
+A103,0,16,Accounts Office Regular Hours,Occupied
+A103,1,9,Accounts Office Regular Hours,Occupied
+A103,1,10,Accounts Office Regular Hours,Occupied
+A103,1,11,Accounts Office Regular Hours,Occupied
+A103,1,12,Accounts Office Regular Hours,Occupied
+A103,1,13,Lunch,Break
+A103,1,14,Accounts Office Regular Hours,Occupied
+A103,1,15,Accounts Office Regular Hours,Occupied
+A103,1,16,Accounts Office Regular Hours,Occupied
+A103,2,9,Accounts Office Regular Hours,Occupied
+A103,2,10,Accounts Office Regular Hours,Occupied
+A103,2,11,Accounts Office Regular Hours,Occupied
+A103,2,12,Accounts Office Regular Hours,Occupied
+A103,2,13,Lunch,Break
+A103,2,14,Accounts Office Regular Hours,Occupied
+A103,2,15,Accounts Office Regular Hours,Occupied
+A103,2,16,Accounts Office Regular Hours,Occupied
+A103,3,9,Accounts Office Regular Hours,Occupied
+A103,3,10,Accounts Office Regular Hours,Occupied
+A103,3,11,Accounts Office Regular Hours,Occupied
+A103,3,12,Accounts Office Regular Hours,Occupied
+A103,3,13,Lunch,Break
+A103,3,14,Accounts Office Regular Hours,Occupied
+A103,3,15,Accounts Office Regular Hours,Occupied
+A103,3,16,Accounts Office Regular Hours,Occupied
+A103,4,9,Accounts Office Regular Hours,Occupied
+A103,4,10,Accounts Office Regular Hours,Occupied
+A103,4,11,Accounts Office Regular Hours,Occupied
+A103,4,12,Accounts Office Regular Hours,Occupied
+A103,4,13,Lunch,Break
+A103,4,14,Accounts Office Regular Hours,Occupied
+A103,4,15,Accounts Office Regular Hours,Occupied
+A103,4,16,Accounts Office Regular Hours,Occupied
+A103,5,9,Accounts Office Half-Day Hours,Occupied
+A103,5,10,Accounts Office Half-Day Hours,Occupied
+A103,5,11,Accounts Office Half-Day Hours,Occupied
+A103,5,12,Accounts Office Half-Day Hours,Occupied
+A103,5,13,Campus Closed (Weekend),Free
+A103,5,14,Campus Closed (Weekend),Free
+A103,5,15,Campus Closed (Weekend),Free
+A103,5,16,Campus Closed (Weekend),Free
+A103,6,9,Holiday / Campus Closed,Free
+A103,6,10,Holiday / Campus Closed,Free
+A103,6,11,Holiday / Campus Closed,Free
+A103,6,12,Holiday / Campus Closed,Free
+A103,6,13,Holiday / Campus Closed,Free
+A103,6,14,Holiday / Campus Closed,Free
+A103,6,15,Holiday / Campus Closed,Free
+A103,6,16,Holiday / Campus Closed,Free
+A104,0,9,Conference Room Regular Hours,Occupied
+A104,0,10,Conference Room Regular Hours,Occupied
+A104,0,11,Conference Room Regular Hours,Occupied
+A104,0,12,Conference Room Regular Hours,Occupied
+A104,0,13,Lunch,Break
+A104,0,14,Conference Room Regular Hours,Occupied
+A104,0,15,Conference Room Regular Hours,Occupied
+A104,0,16,Conference Room Regular Hours,Occupied
+A104,1,9,Conference Room Regular Hours,Occupied
+A104,1,10,Conference Room Regular Hours,Occupied
+A104,1,11,Conference Room Regular Hours,Occupied
+A104,1,12,Conference Room Regular Hours,Occupied
+A104,1,13,Lunch,Break
+A104,1,14,Conference Room Regular Hours,Occupied
+A104,1,15,Conference Room Regular Hours,Occupied
+A104,1,16,Conference Room Regular Hours,Occupied
+A104,2,9,Conference Room Regular Hours,Occupied
+A104,2,10,Conference Room Regular Hours,Occupied
+A104,2,11,Conference Room Regular Hours,Occupied
+A104,2,12,Conference Room Regular Hours,Occupied
+A104,2,13,Lunch,Break
+A104,2,14,Conference Room Regular Hours,Occupied
+A104,2,15,Conference Room Regular Hours,Occupied
+A104,2,16,Conference Room Regular Hours,Occupied
+A104,3,9,Conference Room Regular Hours,Occupied
+A104,3,10,Conference Room Regular Hours,Occupied
+A104,3,11,Conference Room Regular Hours,Occupied
+A104,3,12,Conference Room Regular Hours,Occupied
+A104,3,13,Lunch,Break
+A104,3,14,Conference Room Regular Hours,Occupied
+A104,3,15,Conference Room Regular Hours,Occupied
+A104,3,16,Conference Room Regular Hours,Occupied
+A104,4,9,Conference Room Regular Hours,Occupied
+A104,4,10,Conference Room Regular Hours,Occupied
+A104,4,11,Conference Room Regular Hours,Occupied
+A104,4,12,Conference Room Regular Hours,Occupied
+A104,4,13,Lunch,Break
+A104,4,14,Conference Room Regular Hours,Occupied
+A104,4,15,Conference Room Regular Hours,Occupied
+A104,4,16,Conference Room Regular Hours,Occupied
+A104,5,9,Conference Room Half-Day Hours,Occupied
+A104,5,10,Conference Room Half-Day Hours,Occupied
+A104,5,11,Conference Room Half-Day Hours,Occupied
+A104,5,12,Conference Room Half-Day Hours,Occupied
+A104,5,13,Campus Closed (Weekend),Free
+A104,5,14,Campus Closed (Weekend),Free
+A104,5,15,Campus Closed (Weekend),Free
+A104,5,16,Campus Closed (Weekend),Free
+A104,6,9,Holiday / Campus Closed,Free
+A104,6,10,Holiday / Campus Closed,Free
+A104,6,11,Holiday / Campus Closed,Free
+A104,6,12,Holiday / Campus Closed,Free
+A104,6,13,Holiday / Campus Closed,Free
+A104,6,14,Holiday / Campus Closed,Free
+A104,6,15,Holiday / Campus Closed,Free
+A104,6,16,Holiday / Campus Closed,Free
+A201,0,9,Self-study / Library Hour,Free
+A201,0,10,Data Structures Lecture,Occupied
+A201,0,11,DBMS Lecture,Occupied
+A201,0,12,Operating Systems Lecture,Occupied
+A201,0,13,Lunch,Break
+A201,0,14,Algorithms Lecture,Occupied
+A201,0,15,Data Structures Lecture,Occupied
+A201,0,16,Self-study / Library Hour,Free
+A201,1,9,Data Structures Lecture,Occupied
+A201,1,10,Self-study / Library Hour,Free
+A201,1,11,Operating Systems Lecture,Occupied
+A201,1,12,Computer Networks Lecture,Occupied
+A201,1,13,Lunch,Break
+A201,1,14,Data Structures Lecture,Occupied
+A201,1,15,DBMS Lecture,Occupied
+A201,1,16,Operating Systems Lecture,Occupied
+A201,2,9,DBMS Lecture,Occupied
+A201,2,10,Operating Systems Lecture,Occupied
+A201,2,11,Self-study / Library Hour,Free
+A201,2,12,Algorithms Lecture,Occupied
+A201,2,13,Lunch,Break
+A201,2,14,DBMS Lecture,Occupied
+A201,2,15,Operating Systems Lecture,Occupied
+A201,2,16,Computer Networks Lecture,Occupied
+A201,3,9,Operating Systems Lecture,Occupied
+A201,3,10,Computer Networks Lecture,Occupied
+A201,3,11,Algorithms Lecture,Occupied
+A201,3,12,Self-study / Library Hour,Free
+A201,3,13,Lunch,Break
+A201,3,14,Operating Systems Lecture,Occupied
+A201,3,15,Computer Networks Lecture,Occupied
+A201,3,16,Self-study / Library Hour,Free
+A201,4,9,Computer Networks Lecture,Occupied
+A201,4,10,Algorithms Lecture,Occupied
+A201,4,11,Self-study / Library Hour,Free
+A201,4,12,DBMS Lecture,Occupied
+A201,4,13,Lunch,Break
+A201,4,14,Computer Networks Lecture,Occupied
+A201,4,15,Algorithms Lecture,Occupied
+A201,4,16,Data Structures Lecture,Occupied
+A201,5,9,Data Structures Tutorial,Occupied
+A201,5,10,Data Structures Tutorial,Occupied
+A201,5,11,Data Structures Tutorial,Occupied
+A201,5,12,Free / Mentoring Slot,Free
+A201,5,13,Campus Closed (Weekend),Free
+A201,5,14,Campus Closed (Weekend),Free
+A201,5,15,Campus Closed (Weekend),Free
+A201,5,16,Campus Closed (Weekend),Free
+A201,6,9,Holiday / Campus Closed,Free
+A201,6,10,Holiday / Campus Closed,Free
+A201,6,11,Holiday / Campus Closed,Free
+A201,6,12,Holiday / Campus Closed,Free
+A201,6,13,Holiday / Campus Closed,Free
+A201,6,14,Holiday / Campus Closed,Free
+A201,6,15,Holiday / Campus Closed,Free
+A201,6,16,Holiday / Campus Closed,Free
+A202,0,9,Algorithms Lecture,Occupied
+A202,0,10,Data Structures Lecture,Occupied
+A202,0,11,Self-study / Library Hour,Free
+A202,0,12,Operating Systems Lecture,Occupied
+A202,0,13,Lunch,Break
+A202,0,14,Algorithms Lecture,Occupied
+A202,0,15,Data Structures Lecture,Occupied
+A202,0,16,DBMS Lecture,Occupied
+A202,1,9,Data Structures Lecture,Occupied
+A202,1,10,DBMS Lecture,Occupied
+A202,1,11,Operating Systems Lecture,Occupied
+A202,1,12,Self-study / Library Hour,Free
+A202,1,13,Lunch,Break
+A202,1,14,Data Structures Lecture,Occupied
+A202,1,15,DBMS Lecture,Occupied
+A202,1,16,Operating Systems Lecture,Occupied
+A202,2,9,DBMS Lecture,Occupied
+A202,2,10,Operating Systems Lecture,Occupied
+A202,2,11,Self-study / Library Hour,Free
+A202,2,12,Algorithms Lecture,Occupied
+A202,2,13,Lunch,Break
+A202,2,14,DBMS Lecture,Occupied
+A202,2,15,Operating Systems Lecture,Occupied
+A202,2,16,Self-study / Library Hour,Free
+A202,3,9,Operating Systems Lecture,Occupied
+A202,3,10,Computer Networks Lecture,Occupied
+A202,3,11,Algorithms Lecture,Occupied
+A202,3,12,Data Structures Lecture,Occupied
+A202,3,13,Lunch,Break
+A202,3,14,Self-study / Library Hour,Free
+A202,3,15,Computer Networks Lecture,Occupied
+A202,3,16,Algorithms Lecture,Occupied
+A202,4,9,Self-study / Library Hour,Free
+A202,4,10,Algorithms Lecture,Occupied
+A202,4,11,Data Structures Lecture,Occupied
+A202,4,12,DBMS Lecture,Occupied
+A202,4,13,Lunch,Break
+A202,4,14,Computer Networks Lecture,Occupied
+A202,4,15,Algorithms Lecture,Occupied
+A202,4,16,Data Structures Lecture,Occupied
+A202,5,9,Data Structures Tutorial,Occupied
+A202,5,10,Data Structures Tutorial,Occupied
+A202,5,11,Data Structures Tutorial,Occupied
+A202,5,12,Free / Mentoring Slot,Free
+A202,5,13,Campus Closed (Weekend),Free
+A202,5,14,Campus Closed (Weekend),Free
+A202,5,15,Campus Closed (Weekend),Free
+A202,5,16,Campus Closed (Weekend),Free
+A202,6,9,Holiday / Campus Closed,Free
+A202,6,10,Holiday / Campus Closed,Free
+A202,6,11,Holiday / Campus Closed,Free
+A202,6,12,Holiday / Campus Closed,Free
+A202,6,13,Holiday / Campus Closed,Free
+A202,6,14,Holiday / Campus Closed,Free
+A202,6,15,Holiday / Campus Closed,Free
+A202,6,16,Holiday / Campus Closed,Free
+A203,0,9,Lab Free / Preparation,Free
+A203,0,10,Lab Free / Preparation,Free
+A203,0,11,Lab Free / Preparation,Free
+A203,0,12,Lab Free / Preparation,Free
+A203,0,13,Lunch,Break
+A203,0,14,Operating Systems Practical,Occupied
+A203,0,15,Operating Systems Practical,Occupied
+A203,0,16,Operating Systems Practical,Occupied
+A203,1,9,DBMS Practical,Occupied
+A203,1,10,DBMS Practical,Occupied
+A203,1,11,DBMS Practical,Occupied
+A203,1,12,Lab Free / Preparation,Free
+A203,1,13,Lunch,Break
+A203,1,14,Lab Free / Preparation,Free
+A203,1,15,Lab Free / Preparation,Free
+A203,1,16,Lab Free / Preparation,Free
+A203,2,9,Lab Free / Preparation,Free
+A203,2,10,Lab Free / Preparation,Free
+A203,2,11,Lab Free / Preparation,Free
+A203,2,12,Lab Free / Preparation,Free
+A203,2,13,Lunch,Break
+A203,2,14,Algorithms Practical,Occupied
+A203,2,15,Algorithms Practical,Occupied
+A203,2,16,Algorithms Practical,Occupied
+A203,3,9,Computer Networks Practical,Occupied
+A203,3,10,Computer Networks Practical,Occupied
+A203,3,11,Computer Networks Practical,Occupied
+A203,3,12,Lab Free / Preparation,Free
+A203,3,13,Lunch,Break
+A203,3,14,Lab Free / Preparation,Free
+A203,3,15,Lab Free / Preparation,Free
+A203,3,16,Lab Free / Preparation,Free
+A203,4,9,Lab Free / Preparation,Free
+A203,4,10,Lab Free / Preparation,Free
+A203,4,11,Lab Free / Preparation,Free
+A203,4,12,Lab Free / Preparation,Free
+A203,4,13,Lunch,Break
+A203,4,14,DBMS Practical,Occupied
+A203,4,15,DBMS Practical,Occupied
+A203,4,16,DBMS Practical,Occupied
+A203,5,9,Data Structures Project Session,Occupied
+A203,5,10,Data Structures Project Session,Occupied
+A203,5,11,Data Structures Project Session,Occupied
+A203,5,12,Lab Closed,Free
+A203,5,13,Campus Closed (Weekend),Free
+A203,5,14,Campus Closed (Weekend),Free
+A203,5,15,Campus Closed (Weekend),Free
+A203,5,16,Campus Closed (Weekend),Free
+A203,6,9,Holiday / Campus Closed,Free
+A203,6,10,Holiday / Campus Closed,Free
+A203,6,11,Holiday / Campus Closed,Free
+A203,6,12,Holiday / Campus Closed,Free
+A203,6,13,Holiday / Campus Closed,Free
+A203,6,14,Holiday / Campus Closed,Free
+A203,6,15,Holiday / Campus Closed,Free
+A203,6,16,Holiday / Campus Closed,Free
+A204,0,9,DBMS Practical Lab,Occupied
+A204,0,10,Lab Maintenance / Free Slot,Free
+A204,0,11,DBMS Practical Lab,Occupied
+A204,0,12,Open Lab / Self-study,Free
+A204,0,13,Lunch,Break
+A204,0,14,Operating Systems Practical Lab,Occupied
+A204,0,15,Operating Systems Practical Lab,Occupied
+A204,0,16,Operating Systems Practical Lab,Occupied
+A204,1,9,DBMS Practical Lab,Occupied
+A204,1,10,Lab Maintenance / Free Slot,Free
+A204,1,11,DBMS Practical Lab,Occupied
+A204,1,12,Open Lab / Self-study,Free
+A204,1,13,Lunch,Break
+A204,1,14,Operating Systems Practical Lab,Occupied
+A204,1,15,Operating Systems Practical Lab,Occupied
+A204,1,16,Operating Systems Practical Lab,Occupied
+A204,2,9,DBMS Practical Lab,Occupied
+A204,2,10,Lab Maintenance / Free Slot,Free
+A204,2,11,DBMS Practical Lab,Occupied
+A204,2,12,Open Lab / Self-study,Free
+A204,2,13,Lunch,Break
+A204,2,14,Operating Systems Practical Lab,Occupied
+A204,2,15,Operating Systems Practical Lab,Occupied
+A204,2,16,Operating Systems Practical Lab,Occupied
+A204,3,9,DBMS Practical Lab,Occupied
+A204,3,10,Lab Maintenance / Free Slot,Free
+A204,3,11,DBMS Practical Lab,Occupied
+A204,3,12,Open Lab / Self-study,Free
+A204,3,13,Lunch,Break
+A204,3,14,Operating Systems Practical Lab,Occupied
+A204,3,15,Operating Systems Practical Lab,Occupied
+A204,3,16,Operating Systems Practical Lab,Occupied
+A204,4,9,DBMS Practical Lab,Occupied
+A204,4,10,Lab Maintenance / Free Slot,Free
+A204,4,11,DBMS Practical Lab,Occupied
+A204,4,12,Open Lab / Self-study,Free
+A204,4,13,Lunch,Break
+A204,4,14,Operating Systems Practical Lab,Occupied
+A204,4,15,Operating Systems Practical Lab,Occupied
+A204,4,16,Operating Systems Practical Lab,Occupied
+A204,5,9,Project Work Lab,Occupied
+A204,5,10,Project Work Lab,Occupied
+A204,5,11,Free Slot,Free
+A204,5,12,Free Slot,Free
+A204,5,13,Campus Closed (Weekend),Free
+A204,5,14,Campus Closed (Weekend),Free
+A204,5,15,Campus Closed (Weekend),Free
+A204,5,16,Campus Closed (Weekend),Free
+A204,6,9,Holiday / Campus Closed,Free
+A204,6,10,Holiday / Campus Closed,Free
+A204,6,11,Holiday / Campus Closed,Free
+A204,6,12,Holiday / Campus Closed,Free
+A204,6,13,Holiday / Campus Closed,Free
+A204,6,14,Holiday / Campus Closed,Free
+A204,6,15,Holiday / Campus Closed,Free
+A204,6,16,Holiday / Campus Closed,Free
+A301,0,9,AI Basics Lecture,Occupied
+A301,0,10,Data Science Lecture,Occupied
+A301,0,11,Self-study / Library Hour,Free
+A301,0,12,Visualization Lecture,Occupied
+A301,0,13,Lunch,Break
+A301,0,14,AI Basics Lecture,Occupied
+A301,0,15,Data Science Lecture,Occupied
+A301,0,16,UI/UX Design Lecture,Occupied
+A301,1,9,Data Science Lecture,Occupied
+A301,1,10,UI/UX Design Lecture,Occupied
+A301,1,11,Visualization Lecture,Occupied
+A301,1,12,Self-study / Library Hour,Free
+A301,1,13,Lunch,Break
+A301,1,14,Data Science Lecture,Occupied
+A301,1,15,UI/UX Design Lecture,Occupied
+A301,1,16,Visualization Lecture,Occupied
+A301,2,9,UI/UX Design Lecture,Occupied
+A301,2,10,Visualization Lecture,Occupied
+A301,2,11,Self-study / Library Hour,Free
+A301,2,12,AI Basics Lecture,Occupied
+A301,2,13,Lunch,Break
+A301,2,14,UI/UX Design Lecture,Occupied
+A301,2,15,Visualization Lecture,Occupied
+A301,2,16,Self-study / Library Hour,Free
+A301,3,9,Visualization Lecture,Occupied
+A301,3,10,Web Development Lecture,Occupied
+A301,3,11,AI Basics Lecture,Occupied
+A301,3,12,Data Science Lecture,Occupied
+A301,3,13,Lunch,Break
+A301,3,14,Self-study / Library Hour,Free
+A301,3,15,Web Development Lecture,Occupied
+A301,3,16,AI Basics Lecture,Occupied
+A301,4,9,Self-study / Library Hour,Free
+A301,4,10,AI Basics Lecture,Occupied
+A301,4,11,Data Science Lecture,Occupied
+A301,4,12,UI/UX Design Lecture,Occupied
+A301,4,13,Lunch,Break
+A301,4,14,Web Development Lecture,Occupied
+A301,4,15,AI Basics Lecture,Occupied
+A301,4,16,Data Science Lecture,Occupied
+A301,5,9,Data Science Tutorial,Occupied
+A301,5,10,Data Science Tutorial,Occupied
+A301,5,11,Data Science Tutorial,Occupied
+A301,5,12,Free / Mentoring Slot,Free
+A301,5,13,Campus Closed (Weekend),Free
+A301,5,14,Campus Closed (Weekend),Free
+A301,5,15,Campus Closed (Weekend),Free
+A301,5,16,Campus Closed (Weekend),Free
+A301,6,9,Holiday / Campus Closed,Free
+A301,6,10,Holiday / Campus Closed,Free
+A301,6,11,Holiday / Campus Closed,Free
+A301,6,12,Holiday / Campus Closed,Free
+A301,6,13,Holiday / Campus Closed,Free
+A301,6,14,Holiday / Campus Closed,Free
+A301,6,15,Holiday / Campus Closed,Free
+A301,6,16,Holiday / Campus Closed,Free
+A302,0,9,Data Science Practical,Occupied
+A302,0,10,Data Science Practical,Occupied
+A302,0,11,Data Science Practical,Occupied
+A302,0,12,Lab Free / Preparation,Free
+A302,0,13,Lunch,Break
+A302,0,14,Lab Free / Preparation,Free
+A302,0,15,Lab Free / Preparation,Free
+A302,0,16,Lab Free / Preparation,Free
+A302,1,9,Lab Free / Preparation,Free
+A302,1,10,Lab Free / Preparation,Free
+A302,1,11,Lab Free / Preparation,Free
+A302,1,12,Lab Free / Preparation,Free
+A302,1,13,Lunch,Break
+A302,1,14,Web Development Practical,Occupied
+A302,1,15,Web Development Practical,Occupied
+A302,1,16,Web Development Practical,Occupied
+A302,2,9,Visualization Practical,Occupied
+A302,2,10,Visualization Practical,Occupied
+A302,2,11,Visualization Practical,Occupied
+A302,2,12,Lab Free / Preparation,Free
+A302,2,13,Lunch,Break
+A302,2,14,Lab Free / Preparation,Free
+A302,2,15,Lab Free / Preparation,Free
+A302,2,16,Lab Free / Preparation,Free
+A302,3,9,Lab Free / Preparation,Free
+A302,3,10,Lab Free / Preparation,Free
+A302,3,11,Lab Free / Preparation,Free
+A302,3,12,Lab Free / Preparation,Free
+A302,3,13,Lunch,Break
+A302,3,14,Data Science Practical,Occupied
+A302,3,15,Data Science Practical,Occupied
+A302,3,16,Data Science Practical,Occupied
+A302,4,9,AI Basics Practical,Occupied
+A302,4,10,AI Basics Practical,Occupied
+A302,4,11,AI Basics Practical,Occupied
+A302,4,12,Lab Free / Preparation,Free
+A302,4,13,Lunch,Break
+A302,4,14,Lab Free / Preparation,Free
+A302,4,15,Lab Free / Preparation,Free
+A302,4,16,Lab Free / Preparation,Free
+A302,5,9,Data Science Project Session,Occupied
+A302,5,10,Data Science Project Session,Occupied
+A302,5,11,Data Science Project Session,Occupied
+A302,5,12,Lab Closed,Free
+A302,5,13,Campus Closed (Weekend),Free
+A302,5,14,Campus Closed (Weekend),Free
+A302,5,15,Campus Closed (Weekend),Free
+A302,5,16,Campus Closed (Weekend),Free
+A302,6,9,Holiday / Campus Closed,Free
+A302,6,10,Holiday / Campus Closed,Free
+A302,6,11,Holiday / Campus Closed,Free
+A302,6,12,Holiday / Campus Closed,Free
+A302,6,13,Holiday / Campus Closed,Free
+A302,6,14,Holiday / Campus Closed,Free
+A302,6,15,Holiday / Campus Closed,Free
+A302,6,16,Holiday / Campus Closed,Free
+A303,0,9,Self-study / Library Hour,Free
+A303,0,10,Web Technology Lecture,Occupied
+A303,0,11,Cloud Computing Lecture,Occupied
+A303,0,12,Software Engineering Lecture,Occupied
+A303,0,13,Lunch,Break
+A303,0,14,Mobile App Dev Lecture,Occupied
+A303,0,15,Web Technology Lecture,Occupied
+A303,0,16,Self-study / Library Hour,Free
+A303,1,9,Web Technology Lecture,Occupied
+A303,1,10,Self-study / Library Hour,Free
+A303,1,11,Software Engineering Lecture,Occupied
+A303,1,12,Cyber Security Lecture,Occupied
+A303,1,13,Lunch,Break
+A303,1,14,Web Technology Lecture,Occupied
+A303,1,15,Cloud Computing Lecture,Occupied
+A303,1,16,Software Engineering Lecture,Occupied
+A303,2,9,Cloud Computing Lecture,Occupied
+A303,2,10,Software Engineering Lecture,Occupied
+A303,2,11,Self-study / Library Hour,Free
+A303,2,12,Mobile App Dev Lecture,Occupied
+A303,2,13,Lunch,Break
+A303,2,14,Cloud Computing Lecture,Occupied
+A303,2,15,Software Engineering Lecture,Occupied
+A303,2,16,Cyber Security Lecture,Occupied
+A303,3,9,Software Engineering Lecture,Occupied
+A303,3,10,Cyber Security Lecture,Occupied
+A303,3,11,Mobile App Dev Lecture,Occupied
+A303,3,12,Self-study / Library Hour,Free
+A303,3,13,Lunch,Break
+A303,3,14,Software Engineering Lecture,Occupied
+A303,3,15,Cyber Security Lecture,Occupied
+A303,3,16,Self-study / Library Hour,Free
+A303,4,9,Cyber Security Lecture,Occupied
+A303,4,10,Mobile App Dev Lecture,Occupied
+A303,4,11,Self-study / Library Hour,Free
+A303,4,12,Cloud Computing Lecture,Occupied
+A303,4,13,Lunch,Break
+A303,4,14,Cyber Security Lecture,Occupied
+A303,4,15,Mobile App Dev Lecture,Occupied
+A303,4,16,Web Technology Lecture,Occupied
+A303,5,9,Web Technology Tutorial,Occupied
+A303,5,10,Web Technology Tutorial,Occupied
+A303,5,11,Web Technology Tutorial,Occupied
+A303,5,12,Free / Mentoring Slot,Free
+A303,5,13,Campus Closed (Weekend),Free
+A303,5,14,Campus Closed (Weekend),Free
+A303,5,15,Campus Closed (Weekend),Free
+A303,5,16,Campus Closed (Weekend),Free
+A303,6,9,Holiday / Campus Closed,Free
+A303,6,10,Holiday / Campus Closed,Free
+A303,6,11,Holiday / Campus Closed,Free
+A303,6,12,Holiday / Campus Closed,Free
+A303,6,13,Holiday / Campus Closed,Free
+A303,6,14,Holiday / Campus Closed,Free
+A303,6,15,Holiday / Campus Closed,Free
+A303,6,16,Holiday / Campus Closed,Free
+A304,0,9,Web Technology Practical,Occupied
+A304,0,10,Web Technology Practical,Occupied
+A304,0,11,Web Technology Practical,Occupied
+A304,0,12,Lab Free / Preparation,Free
+A304,0,13,Lunch,Break
+A304,0,14,Lab Free / Preparation,Free
+A304,0,15,Lab Free / Preparation,Free
+A304,0,16,Lab Free / Preparation,Free
+A304,1,9,Lab Free / Preparation,Free
+A304,1,10,Lab Free / Preparation,Free
+A304,1,11,Lab Free / Preparation,Free
+A304,1,12,Lab Free / Preparation,Free
+A304,1,13,Lunch,Break
+A304,1,14,Cyber Security Practical,Occupied
+A304,1,15,Cyber Security Practical,Occupied
+A304,1,16,Cyber Security Practical,Occupied
+A304,2,9,Software Engineering Practical,Occupied
+A304,2,10,Software Engineering Practical,Occupied
+A304,2,11,Software Engineering Practical,Occupied
+A304,2,12,Lab Free / Preparation,Free
+A304,2,13,Lunch,Break
+A304,2,14,Lab Free / Preparation,Free
+A304,2,15,Lab Free / Preparation,Free
+A304,2,16,Lab Free / Preparation,Free
+A304,3,9,Lab Free / Preparation,Free
+A304,3,10,Lab Free / Preparation,Free
+A304,3,11,Lab Free / Preparation,Free
+A304,3,12,Lab Free / Preparation,Free
+A304,3,13,Lunch,Break
+A304,3,14,Web Technology Practical,Occupied
+A304,3,15,Web Technology Practical,Occupied
+A304,3,16,Web Technology Practical,Occupied
+A304,4,9,Mobile App Dev Practical,Occupied
+A304,4,10,Mobile App Dev Practical,Occupied
+A304,4,11,Mobile App Dev Practical,Occupied
+A304,4,12,Lab Free / Preparation,Free
+A304,4,13,Lunch,Break
+A304,4,14,Lab Free / Preparation,Free
+A304,4,15,Lab Free / Preparation,Free
+A304,4,16,Lab Free / Preparation,Free
+A304,5,9,Web Technology Project Session,Occupied
+A304,5,10,Web Technology Project Session,Occupied
+A304,5,11,Web Technology Project Session,Occupied
+A304,5,12,Lab Closed,Free
+A304,5,13,Campus Closed (Weekend),Free
+A304,5,14,Campus Closed (Weekend),Free
+A304,5,15,Campus Closed (Weekend),Free
+A304,5,16,Campus Closed (Weekend),Free
+A304,6,9,Holiday / Campus Closed,Free
+A304,6,10,Holiday / Campus Closed,Free
+A304,6,11,Holiday / Campus Closed,Free
+A304,6,12,Holiday / Campus Closed,Free
+A304,6,13,Holiday / Campus Closed,Free
+A304,6,14,Holiday / Campus Closed,Free
+A304,6,15,Holiday / Campus Closed,Free
+A304,6,16,Holiday / Campus Closed,Free
+B101,0,9,Guest lecture / workshop,Occupied
+B101,0,10,Guest lecture / workshop,Occupied
+B101,0,11,Free period,Free
+B101,0,12,Department seminar,Occupied
+B101,0,13,Lunch,Break
+B101,0,14,Placement talk / technical event,Occupied
+B101,0,15,Placement talk / technical event,Occupied
+B101,0,16,Free period,Free
+B101,1,9,Guest lecture / workshop,Occupied
+B101,1,10,Guest lecture / workshop,Occupied
+B101,1,11,Free period,Free
+B101,1,12,Department seminar,Occupied
+B101,1,13,Lunch,Break
+B101,1,14,Placement talk / technical event,Occupied
+B101,1,15,Placement talk / technical event,Occupied
+B101,1,16,Free period,Free
+B101,2,9,Guest lecture / workshop,Occupied
+B101,2,10,Guest lecture / workshop,Occupied
+B101,2,11,Free period,Free
+B101,2,12,Department seminar,Occupied
+B101,2,13,Lunch,Break
+B101,2,14,Placement talk / technical event,Occupied
+B101,2,15,Placement talk / technical event,Occupied
+B101,2,16,Free period,Free
+B101,3,9,Guest lecture / workshop,Occupied
+B101,3,10,Guest lecture / workshop,Occupied
+B101,3,11,Free period,Free
+B101,3,12,Department seminar,Occupied
+B101,3,13,Lunch,Break
+B101,3,14,Placement talk / technical event,Occupied
+B101,3,15,Placement talk / technical event,Occupied
+B101,3,16,Free period,Free
+B101,4,9,Guest lecture / workshop,Occupied
+B101,4,10,Guest lecture / workshop,Occupied
+B101,4,11,Free period,Free
+B101,4,12,Department seminar,Occupied
+B101,4,13,Lunch,Break
+B101,4,14,Placement talk / technical event,Occupied
+B101,4,15,Placement talk / technical event,Occupied
+B101,4,16,Free period,Free
+B101,5,9,Free period,Free
+B101,5,10,Placement training,Occupied
+B101,5,11,Placement training,Occupied
+B101,5,12,Free period,Free
+B101,5,13,Campus Closed (Weekend),Free
+B101,5,14,Campus Closed (Weekend),Free
+B101,5,15,Campus Closed (Weekend),Free
+B101,5,16,Campus Closed (Weekend),Free
+B101,6,9,Holiday / Campus Closed,Free
+B101,6,10,Holiday / Campus Closed,Free
+B101,6,11,Holiday / Campus Closed,Free
+B101,6,12,Holiday / Campus Closed,Free
+B101,6,13,Holiday / Campus Closed,Free
+B101,6,14,Holiday / Campus Closed,Free
+B101,6,15,Holiday / Campus Closed,Free
+B101,6,16,Holiday / Campus Closed,Free
+B102,0,9,Self-study / Library Hour,Free
+B102,0,10,Genetics Lecture,Occupied
+B102,0,11,Bioprocess Lecture,Occupied
+B102,0,12,Cell Biology Lecture,Occupied
+B102,0,13,Lunch,Break
+B102,0,14,Bioinformatics Lecture,Occupied
+B102,0,15,Genetics Lecture,Occupied
+B102,0,16,Self-study / Library Hour,Free
+B102,1,9,Genetics Lecture,Occupied
+B102,1,10,Self-study / Library Hour,Free
+B102,1,11,Cell Biology Lecture,Occupied
+B102,1,12,Immunology Lecture,Occupied
+B102,1,13,Lunch,Break
+B102,1,14,Genetics Lecture,Occupied
+B102,1,15,Bioprocess Lecture,Occupied
+B102,1,16,Cell Biology Lecture,Occupied
+B102,2,9,Bioprocess Lecture,Occupied
+B102,2,10,Cell Biology Lecture,Occupied
+B102,2,11,Self-study / Library Hour,Free
+B102,2,12,Bioinformatics Lecture,Occupied
+B102,2,13,Lunch,Break
+B102,2,14,Bioprocess Lecture,Occupied
+B102,2,15,Cell Biology Lecture,Occupied
+B102,2,16,Immunology Lecture,Occupied
+B102,3,9,Cell Biology Lecture,Occupied
+B102,3,10,Immunology Lecture,Occupied
+B102,3,11,Bioinformatics Lecture,Occupied
+B102,3,12,Self-study / Library Hour,Free
+B102,3,13,Lunch,Break
+B102,3,14,Cell Biology Lecture,Occupied
+B102,3,15,Immunology Lecture,Occupied
+B102,3,16,Self-study / Library Hour,Free
+B102,4,9,Immunology Lecture,Occupied
+B102,4,10,Bioinformatics Lecture,Occupied
+B102,4,11,Self-study / Library Hour,Free
+B102,4,12,Bioprocess Lecture,Occupied
+B102,4,13,Lunch,Break
+B102,4,14,Immunology Lecture,Occupied
+B102,4,15,Bioinformatics Lecture,Occupied
+B102,4,16,Genetics Lecture,Occupied
+B102,5,9,Genetics Tutorial,Occupied
+B102,5,10,Genetics Tutorial,Occupied
+B102,5,11,Genetics Tutorial,Occupied
+B102,5,12,Free / Mentoring Slot,Free
+B102,5,13,Campus Closed (Weekend),Free
+B102,5,14,Campus Closed (Weekend),Free
+B102,5,15,Campus Closed (Weekend),Free
+B102,5,16,Campus Closed (Weekend),Free
+B102,6,9,Holiday / Campus Closed,Free
+B102,6,10,Holiday / Campus Closed,Free
+B102,6,11,Holiday / Campus Closed,Free
+B102,6,12,Holiday / Campus Closed,Free
+B102,6,13,Holiday / Campus Closed,Free
+B102,6,14,Holiday / Campus Closed,Free
+B102,6,15,Holiday / Campus Closed,Free
+B102,6,16,Holiday / Campus Closed,Free
+B103,0,9,Lab Free / Preparation,Free
+B103,0,10,Lab Free / Preparation,Free
+B103,0,11,Lab Free / Preparation,Free
+B103,0,12,Lab Free / Preparation,Free
+B103,0,13,Lunch,Break
+B103,0,14,Cell Biology Practical,Occupied
+B103,0,15,Cell Biology Practical,Occupied
+B103,0,16,Cell Biology Practical,Occupied
+B103,1,9,Bioprocess Practical,Occupied
+B103,1,10,Bioprocess Practical,Occupied
+B103,1,11,Bioprocess Practical,Occupied
+B103,1,12,Lab Free / Preparation,Free
+B103,1,13,Lunch,Break
+B103,1,14,Lab Free / Preparation,Free
+B103,1,15,Lab Free / Preparation,Free
+B103,1,16,Lab Free / Preparation,Free
+B103,2,9,Lab Free / Preparation,Free
+B103,2,10,Lab Free / Preparation,Free
+B103,2,11,Lab Free / Preparation,Free
+B103,2,12,Lab Free / Preparation,Free
+B103,2,13,Lunch,Break
+B103,2,14,Bioinformatics Practical,Occupied
+B103,2,15,Bioinformatics Practical,Occupied
+B103,2,16,Bioinformatics Practical,Occupied
+B103,3,9,Immunology Practical,Occupied
+B103,3,10,Immunology Practical,Occupied
+B103,3,11,Immunology Practical,Occupied
+B103,3,12,Lab Free / Preparation,Free
+B103,3,13,Lunch,Break
+B103,3,14,Lab Free / Preparation,Free
+B103,3,15,Lab Free / Preparation,Free
+B103,3,16,Lab Free / Preparation,Free
+B103,4,9,Lab Free / Preparation,Free
+B103,4,10,Lab Free / Preparation,Free
+B103,4,11,Lab Free / Preparation,Free
+B103,4,12,Lab Free / Preparation,Free
+B103,4,13,Lunch,Break
+B103,4,14,Bioprocess Practical,Occupied
+B103,4,15,Bioprocess Practical,Occupied
+B103,4,16,Bioprocess Practical,Occupied
+B103,5,9,Genetics Project Session,Occupied
+B103,5,10,Genetics Project Session,Occupied
+B103,5,11,Genetics Project Session,Occupied
+B103,5,12,Lab Closed,Free
+B103,5,13,Campus Closed (Weekend),Free
+B103,5,14,Campus Closed (Weekend),Free
+B103,5,15,Campus Closed (Weekend),Free
+B103,5,16,Campus Closed (Weekend),Free
+B103,6,9,Holiday / Campus Closed,Free
+B103,6,10,Holiday / Campus Closed,Free
+B103,6,11,Holiday / Campus Closed,Free
+B103,6,12,Holiday / Campus Closed,Free
+B103,6,13,Holiday / Campus Closed,Free
+B103,6,14,Holiday / Campus Closed,Free
+B103,6,15,Holiday / Campus Closed,Free
+B103,6,16,Holiday / Campus Closed,Free
+B104,0,9,Genetics Practical,Occupied
+B104,0,10,Genetics Practical,Occupied
+B104,0,11,Genetics Practical,Occupied
+B104,0,12,Lab Free / Preparation,Free
+B104,0,13,Lunch,Break
+B104,0,14,Lab Free / Preparation,Free
+B104,0,15,Lab Free / Preparation,Free
+B104,0,16,Lab Free / Preparation,Free
+B104,1,9,Lab Free / Preparation,Free
+B104,1,10,Lab Free / Preparation,Free
+B104,1,11,Lab Free / Preparation,Free
+B104,1,12,Lab Free / Preparation,Free
+B104,1,13,Lunch,Break
+B104,1,14,Immunology Practical,Occupied
+B104,1,15,Immunology Practical,Occupied
+B104,1,16,Immunology Practical,Occupied
+B104,2,9,Cell Biology Practical,Occupied
+B104,2,10,Cell Biology Practical,Occupied
+B104,2,11,Cell Biology Practical,Occupied
+B104,2,12,Lab Free / Preparation,Free
+B104,2,13,Lunch,Break
+B104,2,14,Lab Free / Preparation,Free
+B104,2,15,Lab Free / Preparation,Free
+B104,2,16,Lab Free / Preparation,Free
+B104,3,9,Lab Free / Preparation,Free
+B104,3,10,Lab Free / Preparation,Free
+B104,3,11,Lab Free / Preparation,Free
+B104,3,12,Lab Free / Preparation,Free
+B104,3,13,Lunch,Break
+B104,3,14,Genetics Practical,Occupied
+B104,3,15,Genetics Practical,Occupied
+B104,3,16,Genetics Practical,Occupied
+B104,4,9,Bioinformatics Practical,Occupied
+B104,4,10,Bioinformatics Practical,Occupied
+B104,4,11,Bioinformatics Practical,Occupied
+B104,4,12,Lab Free / Preparation,Free
+B104,4,13,Lunch,Break
+B104,4,14,Lab Free / Preparation,Free
+B104,4,15,Lab Free / Preparation,Free
+B104,4,16,Lab Free / Preparation,Free
+B104,5,9,Genetics Project Session,Occupied
+B104,5,10,Genetics Project Session,Occupied
+B104,5,11,Genetics Project Session,Occupied
+B104,5,12,Lab Closed,Free
+B104,5,13,Campus Closed (Weekend),Free
+B104,5,14,Campus Closed (Weekend),Free
+B104,5,15,Campus Closed (Weekend),Free
+B104,5,16,Campus Closed (Weekend),Free
+B104,6,9,Holiday / Campus Closed,Free
+B104,6,10,Holiday / Campus Closed,Free
+B104,6,11,Holiday / Campus Closed,Free
+B104,6,12,Holiday / Campus Closed,Free
+B104,6,13,Holiday / Campus Closed,Free
+B104,6,14,Holiday / Campus Closed,Free
+B104,6,15,Holiday / Campus Closed,Free
+B104,6,16,Holiday / Campus Closed,Free
+B201,0,9,Self-study / Library Hour,Free
+B201,0,10,Robotics Lecture,Occupied
+B201,0,11,PLC Programming Lecture,Occupied
+B201,0,12,Sensors and Actuators Lecture,Occupied
+B201,0,13,Lunch,Break
+B201,0,14,Microcontrollers Lecture,Occupied
+B201,0,15,Robotics Lecture,Occupied
+B201,0,16,Self-study / Library Hour,Free
+B201,1,9,Robotics Lecture,Occupied
+B201,1,10,Self-study / Library Hour,Free
+B201,1,11,Sensors and Actuators Lecture,Occupied
+B201,1,12,Hydraulics Lecture,Occupied
+B201,1,13,Lunch,Break
+B201,1,14,Robotics Lecture,Occupied
+B201,1,15,PLC Programming Lecture,Occupied
+B201,1,16,Sensors and Actuators Lecture,Occupied
+B201,2,9,PLC Programming Lecture,Occupied
+B201,2,10,Sensors and Actuators Lecture,Occupied
+B201,2,11,Self-study / Library Hour,Free
+B201,2,12,Microcontrollers Lecture,Occupied
+B201,2,13,Lunch,Break
+B201,2,14,PLC Programming Lecture,Occupied
+B201,2,15,Sensors and Actuators Lecture,Occupied
+B201,2,16,Hydraulics Lecture,Occupied
+B201,3,9,Sensors and Actuators Lecture,Occupied
+B201,3,10,Hydraulics Lecture,Occupied
+B201,3,11,Microcontrollers Lecture,Occupied
+B201,3,12,Self-study / Library Hour,Free
+B201,3,13,Lunch,Break
+B201,3,14,Sensors and Actuators Lecture,Occupied
+B201,3,15,Hydraulics Lecture,Occupied
+B201,3,16,Self-study / Library Hour,Free
+B201,4,9,Hydraulics Lecture,Occupied
+B201,4,10,Microcontrollers Lecture,Occupied
+B201,4,11,Self-study / Library Hour,Free
+B201,4,12,PLC Programming Lecture,Occupied
+B201,4,13,Lunch,Break
+B201,4,14,Hydraulics Lecture,Occupied
+B201,4,15,Microcontrollers Lecture,Occupied
+B201,4,16,Robotics Lecture,Occupied
+B201,5,9,Robotics Tutorial,Occupied
+B201,5,10,Robotics Tutorial,Occupied
+B201,5,11,Robotics Tutorial,Occupied
+B201,5,12,Free / Mentoring Slot,Free
+B201,5,13,Campus Closed (Weekend),Free
+B201,5,14,Campus Closed (Weekend),Free
+B201,5,15,Campus Closed (Weekend),Free
+B201,5,16,Campus Closed (Weekend),Free
+B201,6,9,Holiday / Campus Closed,Free
+B201,6,10,Holiday / Campus Closed,Free
+B201,6,11,Holiday / Campus Closed,Free
+B201,6,12,Holiday / Campus Closed,Free
+B201,6,13,Holiday / Campus Closed,Free
+B201,6,14,Holiday / Campus Closed,Free
+B201,6,15,Holiday / Campus Closed,Free
+B201,6,16,Holiday / Campus Closed,Free
+B202,0,9,Robotics Practical,Occupied
+B202,0,10,Robotics Practical,Occupied
+B202,0,11,Robotics Practical,Occupied
+B202,0,12,Lab Free / Preparation,Free
+B202,0,13,Lunch,Break
+B202,0,14,Lab Free / Preparation,Free
+B202,0,15,Lab Free / Preparation,Free
+B202,0,16,Lab Free / Preparation,Free
+B202,1,9,Lab Free / Preparation,Free
+B202,1,10,Lab Free / Preparation,Free
+B202,1,11,Lab Free / Preparation,Free
+B202,1,12,Lab Free / Preparation,Free
+B202,1,13,Lunch,Break
+B202,1,14,Hydraulics Practical,Occupied
+B202,1,15,Hydraulics Practical,Occupied
+B202,1,16,Hydraulics Practical,Occupied
+B202,2,9,Sensors and Actuators Practical,Occupied
+B202,2,10,Sensors and Actuators Practical,Occupied
+B202,2,11,Sensors and Actuators Practical,Occupied
+B202,2,12,Lab Free / Preparation,Free
+B202,2,13,Lunch,Break
+B202,2,14,Lab Free / Preparation,Free
+B202,2,15,Lab Free / Preparation,Free
+B202,2,16,Lab Free / Preparation,Free
+B202,3,9,Lab Free / Preparation,Free
+B202,3,10,Lab Free / Preparation,Free
+B202,3,11,Lab Free / Preparation,Free
+B202,3,12,Lab Free / Preparation,Free
+B202,3,13,Lunch,Break
+B202,3,14,Robotics Practical,Occupied
+B202,3,15,Robotics Practical,Occupied
+B202,3,16,Robotics Practical,Occupied
+B202,4,9,Microcontrollers Practical,Occupied
+B202,4,10,Microcontrollers Practical,Occupied
+B202,4,11,Microcontrollers Practical,Occupied
+B202,4,12,Lab Free / Preparation,Free
+B202,4,13,Lunch,Break
+B202,4,14,Lab Free / Preparation,Free
+B202,4,15,Lab Free / Preparation,Free
+B202,4,16,Lab Free / Preparation,Free
+B202,5,9,Robotics Project Session,Occupied
+B202,5,10,Robotics Project Session,Occupied
+B202,5,11,Robotics Project Session,Occupied
+B202,5,12,Lab Closed,Free
+B202,5,13,Campus Closed (Weekend),Free
+B202,5,14,Campus Closed (Weekend),Free
+B202,5,15,Campus Closed (Weekend),Free
+B202,5,16,Campus Closed (Weekend),Free
+B202,6,9,Holiday / Campus Closed,Free
+B202,6,10,Holiday / Campus Closed,Free
+B202,6,11,Holiday / Campus Closed,Free
+B202,6,12,Holiday / Campus Closed,Free
+B202,6,13,Holiday / Campus Closed,Free
+B202,6,14,Holiday / Campus Closed,Free
+B202,6,15,Holiday / Campus Closed,Free
+B202,6,16,Holiday / Campus Closed,Free
+B203,0,9,Lab Free / Preparation,Free
+B203,0,10,Lab Free / Preparation,Free
+B203,0,11,Lab Free / Preparation,Free
+B203,0,12,Lab Free / Preparation,Free
+B203,0,13,Lunch,Break
+B203,0,14,Sensors and Actuators Practical,Occupied
+B203,0,15,Sensors and Actuators Practical,Occupied
+B203,0,16,Sensors and Actuators Practical,Occupied
+B203,1,9,PLC Programming Practical,Occupied
+B203,1,10,PLC Programming Practical,Occupied
+B203,1,11,PLC Programming Practical,Occupied
+B203,1,12,Lab Free / Preparation,Free
+B203,1,13,Lunch,Break
+B203,1,14,Lab Free / Preparation,Free
+B203,1,15,Lab Free / Preparation,Free
+B203,1,16,Lab Free / Preparation,Free
+B203,2,9,Lab Free / Preparation,Free
+B203,2,10,Lab Free / Preparation,Free
+B203,2,11,Lab Free / Preparation,Free
+B203,2,12,Lab Free / Preparation,Free
+B203,2,13,Lunch,Break
+B203,2,14,Microcontrollers Practical,Occupied
+B203,2,15,Microcontrollers Practical,Occupied
+B203,2,16,Microcontrollers Practical,Occupied
+B203,3,9,Hydraulics Practical,Occupied
+B203,3,10,Hydraulics Practical,Occupied
+B203,3,11,Hydraulics Practical,Occupied
+B203,3,12,Lab Free / Preparation,Free
+B203,3,13,Lunch,Break
+B203,3,14,Lab Free / Preparation,Free
+B203,3,15,Lab Free / Preparation,Free
+B203,3,16,Lab Free / Preparation,Free
+B203,4,9,Lab Free / Preparation,Free
+B203,4,10,Lab Free / Preparation,Free
+B203,4,11,Lab Free / Preparation,Free
+B203,4,12,Lab Free / Preparation,Free
+B203,4,13,Lunch,Break
+B203,4,14,PLC Programming Practical,Occupied
+B203,4,15,PLC Programming Practical,Occupied
+B203,4,16,PLC Programming Practical,Occupied
+B203,5,9,Robotics Project Session,Occupied
+B203,5,10,Robotics Project Session,Occupied
+B203,5,11,Robotics Project Session,Occupied
+B203,5,12,Lab Closed,Free
+B203,5,13,Campus Closed (Weekend),Free
+B203,5,14,Campus Closed (Weekend),Free
+B203,5,15,Campus Closed (Weekend),Free
+B203,5,16,Campus Closed (Weekend),Free
+B203,6,9,Holiday / Campus Closed,Free
+B203,6,10,Holiday / Campus Closed,Free
+B203,6,11,Holiday / Campus Closed,Free
+B203,6,12,Holiday / Campus Closed,Free
+B203,6,13,Holiday / Campus Closed,Free
+B203,6,14,Holiday / Campus Closed,Free
+B203,6,15,Holiday / Campus Closed,Free
+B203,6,16,Holiday / Campus Closed,Free
+B204,0,9,Self-study / Library Hour,Free
+B204,0,10,Digital Electronics Lecture,Occupied
+B204,0,11,VLSI Lecture,Occupied
+B204,0,12,Signals and Systems Lecture,Occupied
+B204,0,13,Lunch,Break
+B204,0,14,Embedded Systems Lecture,Occupied
+B204,0,15,Digital Electronics Lecture,Occupied
+B204,0,16,Self-study / Library Hour,Free
+B204,1,9,Digital Electronics Lecture,Occupied
+B204,1,10,Self-study / Library Hour,Free
+B204,1,11,Signals and Systems Lecture,Occupied
+B204,1,12,Communication Engineering Lecture,Occupied
+B204,1,13,Lunch,Break
+B204,1,14,Digital Electronics Lecture,Occupied
+B204,1,15,VLSI Lecture,Occupied
+B204,1,16,Signals and Systems Lecture,Occupied
+B204,2,9,VLSI Lecture,Occupied
+B204,2,10,Signals and Systems Lecture,Occupied
+B204,2,11,Self-study / Library Hour,Free
+B204,2,12,Embedded Systems Lecture,Occupied
+B204,2,13,Lunch,Break
+B204,2,14,VLSI Lecture,Occupied
+B204,2,15,Signals and Systems Lecture,Occupied
+B204,2,16,Communication Engineering Lecture,Occupied
+B204,3,9,Signals and Systems Lecture,Occupied
+B204,3,10,Communication Engineering Lecture,Occupied
+B204,3,11,Embedded Systems Lecture,Occupied
+B204,3,12,Self-study / Library Hour,Free
+B204,3,13,Lunch,Break
+B204,3,14,Signals and Systems Lecture,Occupied
+B204,3,15,Communication Engineering Lecture,Occupied
+B204,3,16,Self-study / Library Hour,Free
+B204,4,9,Communication Engineering Lecture,Occupied
+B204,4,10,Embedded Systems Lecture,Occupied
+B204,4,11,Self-study / Library Hour,Free
+B204,4,12,VLSI Lecture,Occupied
+B204,4,13,Lunch,Break
+B204,4,14,Communication Engineering Lecture,Occupied
+B204,4,15,Embedded Systems Lecture,Occupied
+B204,4,16,Digital Electronics Lecture,Occupied
+B204,5,9,Digital Electronics Tutorial,Occupied
+B204,5,10,Digital Electronics Tutorial,Occupied
+B204,5,11,Digital Electronics Tutorial,Occupied
+B204,5,12,Free / Mentoring Slot,Free
+B204,5,13,Campus Closed (Weekend),Free
+B204,5,14,Campus Closed (Weekend),Free
+B204,5,15,Campus Closed (Weekend),Free
+B204,5,16,Campus Closed (Weekend),Free
+B204,6,9,Holiday / Campus Closed,Free
+B204,6,10,Holiday / Campus Closed,Free
+B204,6,11,Holiday / Campus Closed,Free
+B204,6,12,Holiday / Campus Closed,Free
+B204,6,13,Holiday / Campus Closed,Free
+B204,6,14,Holiday / Campus Closed,Free
+B204,6,15,Holiday / Campus Closed,Free
+B204,6,16,Holiday / Campus Closed,Free
+B301,0,9,Embedded Systems Lecture,Occupied
+B301,0,10,Digital Electronics Lecture,Occupied
+B301,0,11,Self-study / Library Hour,Free
+B301,0,12,Signals and Systems Lecture,Occupied
+B301,0,13,Lunch,Break
+B301,0,14,Embedded Systems Lecture,Occupied
+B301,0,15,Digital Electronics Lecture,Occupied
+B301,0,16,VLSI Lecture,Occupied
+B301,1,9,Digital Electronics Lecture,Occupied
+B301,1,10,VLSI Lecture,Occupied
+B301,1,11,Signals and Systems Lecture,Occupied
+B301,1,12,Self-study / Library Hour,Free
+B301,1,13,Lunch,Break
+B301,1,14,Digital Electronics Lecture,Occupied
+B301,1,15,VLSI Lecture,Occupied
+B301,1,16,Signals and Systems Lecture,Occupied
+B301,2,9,VLSI Lecture,Occupied
+B301,2,10,Signals and Systems Lecture,Occupied
+B301,2,11,Self-study / Library Hour,Free
+B301,2,12,Embedded Systems Lecture,Occupied
+B301,2,13,Lunch,Break
+B301,2,14,VLSI Lecture,Occupied
+B301,2,15,Signals and Systems Lecture,Occupied
+B301,2,16,Self-study / Library Hour,Free
+B301,3,9,Signals and Systems Lecture,Occupied
+B301,3,10,Communication Engineering Lecture,Occupied
+B301,3,11,Embedded Systems Lecture,Occupied
+B301,3,12,Digital Electronics Lecture,Occupied
+B301,3,13,Lunch,Break
+B301,3,14,Self-study / Library Hour,Free
+B301,3,15,Communication Engineering Lecture,Occupied
+B301,3,16,Embedded Systems Lecture,Occupied
+B301,4,9,Self-study / Library Hour,Free
+B301,4,10,Embedded Systems Lecture,Occupied
+B301,4,11,Digital Electronics Lecture,Occupied
+B301,4,12,VLSI Lecture,Occupied
+B301,4,13,Lunch,Break
+B301,4,14,Communication Engineering Lecture,Occupied
+B301,4,15,Embedded Systems Lecture,Occupied
+B301,4,16,Digital Electronics Lecture,Occupied
+B301,5,9,Digital Electronics Tutorial,Occupied
+B301,5,10,Digital Electronics Tutorial,Occupied
+B301,5,11,Digital Electronics Tutorial,Occupied
+B301,5,12,Free / Mentoring Slot,Free
+B301,5,13,Campus Closed (Weekend),Free
+B301,5,14,Campus Closed (Weekend),Free
+B301,5,15,Campus Closed (Weekend),Free
+B301,5,16,Campus Closed (Weekend),Free
+B301,6,9,Holiday / Campus Closed,Free
+B301,6,10,Holiday / Campus Closed,Free
+B301,6,11,Holiday / Campus Closed,Free
+B301,6,12,Holiday / Campus Closed,Free
+B301,6,13,Holiday / Campus Closed,Free
+B301,6,14,Holiday / Campus Closed,Free
+B301,6,15,Holiday / Campus Closed,Free
+B301,6,16,Holiday / Campus Closed,Free
+B302,0,9,Digital Electronics Practical,Occupied
+B302,0,10,Digital Electronics Practical,Occupied
+B302,0,11,Digital Electronics Practical,Occupied
+B302,0,12,Lab Free / Preparation,Free
+B302,0,13,Lunch,Break
+B302,0,14,Lab Free / Preparation,Free
+B302,0,15,Lab Free / Preparation,Free
+B302,0,16,Lab Free / Preparation,Free
+B302,1,9,Lab Free / Preparation,Free
+B302,1,10,Lab Free / Preparation,Free
+B302,1,11,Lab Free / Preparation,Free
+B302,1,12,Lab Free / Preparation,Free
+B302,1,13,Lunch,Break
+B302,1,14,Communication Engineering Practical,Occupied
+B302,1,15,Communication Engineering Practical,Occupied
+B302,1,16,Communication Engineering Practical,Occupied
+B302,2,9,Signals and Systems Practical,Occupied
+B302,2,10,Signals and Systems Practical,Occupied
+B302,2,11,Signals and Systems Practical,Occupied
+B302,2,12,Lab Free / Preparation,Free
+B302,2,13,Lunch,Break
+B302,2,14,Lab Free / Preparation,Free
+B302,2,15,Lab Free / Preparation,Free
+B302,2,16,Lab Free / Preparation,Free
+B302,3,9,Lab Free / Preparation,Free
+B302,3,10,Lab Free / Preparation,Free
+B302,3,11,Lab Free / Preparation,Free
+B302,3,12,Lab Free / Preparation,Free
+B302,3,13,Lunch,Break
+B302,3,14,Digital Electronics Practical,Occupied
+B302,3,15,Digital Electronics Practical,Occupied
+B302,3,16,Digital Electronics Practical,Occupied
+B302,4,9,Embedded Systems Practical,Occupied
+B302,4,10,Embedded Systems Practical,Occupied
+B302,4,11,Embedded Systems Practical,Occupied
+B302,4,12,Lab Free / Preparation,Free
+B302,4,13,Lunch,Break
+B302,4,14,Lab Free / Preparation,Free
+B302,4,15,Lab Free / Preparation,Free
+B302,4,16,Lab Free / Preparation,Free
+B302,5,9,Digital Electronics Project Session,Occupied
+B302,5,10,Digital Electronics Project Session,Occupied
+B302,5,11,Digital Electronics Project Session,Occupied
+B302,5,12,Lab Closed,Free
+B302,5,13,Campus Closed (Weekend),Free
+B302,5,14,Campus Closed (Weekend),Free
+B302,5,15,Campus Closed (Weekend),Free
+B302,5,16,Campus Closed (Weekend),Free
+B302,6,9,Holiday / Campus Closed,Free
+B302,6,10,Holiday / Campus Closed,Free
+B302,6,11,Holiday / Campus Closed,Free
+B302,6,12,Holiday / Campus Closed,Free
+B302,6,13,Holiday / Campus Closed,Free
+B302,6,14,Holiday / Campus Closed,Free
+B302,6,15,Holiday / Campus Closed,Free
+B302,6,16,Holiday / Campus Closed,Free
+B303,0,9,Lab Free / Preparation,Free
+B303,0,10,Lab Free / Preparation,Free
+B303,0,11,Lab Free / Preparation,Free
+B303,0,12,Lab Free / Preparation,Free
+B303,0,13,Lunch,Break
+B303,0,14,Signals and Systems Practical,Occupied
+B303,0,15,Signals and Systems Practical,Occupied
+B303,0,16,Signals and Systems Practical,Occupied
+B303,1,9,VLSI Practical,Occupied
+B303,1,10,VLSI Practical,Occupied
+B303,1,11,VLSI Practical,Occupied
+B303,1,12,Lab Free / Preparation,Free
+B303,1,13,Lunch,Break
+B303,1,14,Lab Free / Preparation,Free
+B303,1,15,Lab Free / Preparation,Free
+B303,1,16,Lab Free / Preparation,Free
+B303,2,9,Lab Free / Preparation,Free
+B303,2,10,Lab Free / Preparation,Free
+B303,2,11,Lab Free / Preparation,Free
+B303,2,12,Lab Free / Preparation,Free
+B303,2,13,Lunch,Break
+B303,2,14,Embedded Systems Practical,Occupied
+B303,2,15,Embedded Systems Practical,Occupied
+B303,2,16,Embedded Systems Practical,Occupied
+B303,3,9,Communication Engineering Practical,Occupied
+B303,3,10,Communication Engineering Practical,Occupied
+B303,3,11,Communication Engineering Practical,Occupied
+B303,3,12,Lab Free / Preparation,Free
+B303,3,13,Lunch,Break
+B303,3,14,Lab Free / Preparation,Free
+B303,3,15,Lab Free / Preparation,Free
+B303,3,16,Lab Free / Preparation,Free
+B303,4,9,Lab Free / Preparation,Free
+B303,4,10,Lab Free / Preparation,Free
+B303,4,11,Lab Free / Preparation,Free
+B303,4,12,Lab Free / Preparation,Free
+B303,4,13,Lunch,Break
+B303,4,14,VLSI Practical,Occupied
+B303,4,15,VLSI Practical,Occupied
+B303,4,16,VLSI Practical,Occupied
+B303,5,9,Digital Electronics Project Session,Occupied
+B303,5,10,Digital Electronics Project Session,Occupied
+B303,5,11,Digital Electronics Project Session,Occupied
+B303,5,12,Lab Closed,Free
+B303,5,13,Campus Closed (Weekend),Free
+B303,5,14,Campus Closed (Weekend),Free
+B303,5,15,Campus Closed (Weekend),Free
+B303,5,16,Campus Closed (Weekend),Free
+B303,6,9,Holiday / Campus Closed,Free
+B303,6,10,Holiday / Campus Closed,Free
+B303,6,11,Holiday / Campus Closed,Free
+B303,6,12,Holiday / Campus Closed,Free
+B303,6,13,Holiday / Campus Closed,Free
+B303,6,14,Holiday / Campus Closed,Free
+B303,6,15,Holiday / Campus Closed,Free
+B303,6,16,Holiday / Campus Closed,Free
+B304,0,9,Microcontrollers Lecture,Occupied
+B304,0,10,Robotics Lecture,Occupied
+B304,0,11,Self-study / Library Hour,Free
+B304,0,12,Sensors and Actuators Lecture,Occupied
+B304,0,13,Lunch,Break
+B304,0,14,Microcontrollers Lecture,Occupied
+B304,0,15,Robotics Lecture,Occupied
+B304,0,16,PLC Programming Lecture,Occupied
+B304,1,9,Robotics Lecture,Occupied
+B304,1,10,PLC Programming Lecture,Occupied
+B304,1,11,Sensors and Actuators Lecture,Occupied
+B304,1,12,Self-study / Library Hour,Free
+B304,1,13,Lunch,Break
+B304,1,14,Robotics Lecture,Occupied
+B304,1,15,PLC Programming Lecture,Occupied
+B304,1,16,Sensors and Actuators Lecture,Occupied
+B304,2,9,PLC Programming Lecture,Occupied
+B304,2,10,Sensors and Actuators Lecture,Occupied
+B304,2,11,Self-study / Library Hour,Free
+B304,2,12,Microcontrollers Lecture,Occupied
+B304,2,13,Lunch,Break
+B304,2,14,PLC Programming Lecture,Occupied
+B304,2,15,Sensors and Actuators Lecture,Occupied
+B304,2,16,Self-study / Library Hour,Free
+B304,3,9,Sensors and Actuators Lecture,Occupied
+B304,3,10,Hydraulics Lecture,Occupied
+B304,3,11,Microcontrollers Lecture,Occupied
+B304,3,12,Robotics Lecture,Occupied
+B304,3,13,Lunch,Break
+B304,3,14,Self-study / Library Hour,Free
+B304,3,15,Hydraulics Lecture,Occupied
+B304,3,16,Microcontrollers Lecture,Occupied
+B304,4,9,Self-study / Library Hour,Free
+B304,4,10,Microcontrollers Lecture,Occupied
+B304,4,11,Robotics Lecture,Occupied
+B304,4,12,PLC Programming Lecture,Occupied
+B304,4,13,Lunch,Break
+B304,4,14,Hydraulics Lecture,Occupied
+B304,4,15,Microcontrollers Lecture,Occupied
+B304,4,16,Robotics Lecture,Occupied
+B304,5,9,Robotics Tutorial,Occupied
+B304,5,10,Robotics Tutorial,Occupied
+B304,5,11,Robotics Tutorial,Occupied
+B304,5,12,Free / Mentoring Slot,Free
+B304,5,13,Campus Closed (Weekend),Free
+B304,5,14,Campus Closed (Weekend),Free
+B304,5,15,Campus Closed (Weekend),Free
+B304,5,16,Campus Closed (Weekend),Free
+B304,6,9,Holiday / Campus Closed,Free
+B304,6,10,Holiday / Campus Closed,Free
+B304,6,11,Holiday / Campus Closed,Free
+B304,6,12,Holiday / Campus Closed,Free
+B304,6,13,Holiday / Campus Closed,Free
+B304,6,14,Holiday / Campus Closed,Free
+B304,6,15,Holiday / Campus Closed,Free
+B304,6,16,Holiday / Campus Closed,Free
+B401,0,9,Embedded Systems Lecture,Occupied
+B401,0,10,Digital Electronics Lecture,Occupied
+B401,0,11,Self-study / Library Hour,Free
+B401,0,12,Signals and Systems Lecture,Occupied
+B401,0,13,Lunch,Break
+B401,0,14,Embedded Systems Lecture,Occupied
+B401,0,15,Digital Electronics Lecture,Occupied
+B401,0,16,VLSI Lecture,Occupied
+B401,1,9,Digital Electronics Lecture,Occupied
+B401,1,10,VLSI Lecture,Occupied
+B401,1,11,Signals and Systems Lecture,Occupied
+B401,1,12,Communication Engineering Lecture,Occupied
+B401,1,13,Lunch,Break
+B401,1,14,Self-study / Library Hour,Free
+B401,1,15,VLSI Lecture,Occupied
+B401,1,16,Self-study / Library Hour,Free
+B401,2,9,Self-study / Library Hour,Free
+B401,2,10,Signals and Systems Lecture,Occupied
+B401,2,11,Communication Engineering Lecture,Occupied
+B401,2,12,Embedded Systems Lecture,Occupied
+B401,2,13,Lunch,Break
+B401,2,14,VLSI Lecture,Occupied
+B401,2,15,Signals and Systems Lecture,Occupied
+B401,2,16,Communication Engineering Lecture,Occupied
+B401,3,9,Signals and Systems Lecture,Occupied
+B401,3,10,Self-study / Library Hour,Free
+B401,3,11,Embedded Systems Lecture,Occupied
+B401,3,12,Digital Electronics Lecture,Occupied
+B401,3,13,Lunch,Break
+B401,3,14,Signals and Systems Lecture,Occupied
+B401,3,15,Communication Engineering Lecture,Occupied
+B401,3,16,Embedded Systems Lecture,Occupied
+B401,4,9,Communication Engineering Lecture,Occupied
+B401,4,10,Embedded Systems Lecture,Occupied
+B401,4,11,Self-study / Library Hour,Free
+B401,4,12,VLSI Lecture,Occupied
+B401,4,13,Lunch,Break
+B401,4,14,Communication Engineering Lecture,Occupied
+B401,4,15,Embedded Systems Lecture,Occupied
+B401,4,16,Self-study / Library Hour,Free
+B401,5,9,Digital Electronics Tutorial,Occupied
+B401,5,10,Digital Electronics Tutorial,Occupied
+B401,5,11,Digital Electronics Tutorial,Occupied
+B401,5,12,Free / Mentoring Slot,Free
+B401,5,13,Campus Closed (Weekend),Free
+B401,5,14,Campus Closed (Weekend),Free
+B401,5,15,Campus Closed (Weekend),Free
+B401,5,16,Campus Closed (Weekend),Free
+B401,6,9,Holiday / Campus Closed,Free
+B401,6,10,Holiday / Campus Closed,Free
+B401,6,11,Holiday / Campus Closed,Free
+B401,6,12,Holiday / Campus Closed,Free
+B401,6,13,Holiday / Campus Closed,Free
+B401,6,14,Holiday / Campus Closed,Free
+B401,6,15,Holiday / Campus Closed,Free
+B401,6,16,Holiday / Campus Closed,Free
+B402,0,9,Digital Electronics Practical,Occupied
+B402,0,10,Digital Electronics Practical,Occupied
+B402,0,11,Digital Electronics Practical,Occupied
+B402,0,12,Lab Free / Preparation,Free
+B402,0,13,Lunch,Break
+B402,0,14,Lab Free / Preparation,Free
+B402,0,15,Lab Free / Preparation,Free
+B402,0,16,Lab Free / Preparation,Free
+B402,1,9,Lab Free / Preparation,Free
+B402,1,10,Lab Free / Preparation,Free
+B402,1,11,Lab Free / Preparation,Free
+B402,1,12,Lab Free / Preparation,Free
+B402,1,13,Lunch,Break
+B402,1,14,Communication Engineering Practical,Occupied
+B402,1,15,Communication Engineering Practical,Occupied
+B402,1,16,Communication Engineering Practical,Occupied
+B402,2,9,Signals and Systems Practical,Occupied
+B402,2,10,Signals and Systems Practical,Occupied
+B402,2,11,Signals and Systems Practical,Occupied
+B402,2,12,Lab Free / Preparation,Free
+B402,2,13,Lunch,Break
+B402,2,14,Lab Free / Preparation,Free
+B402,2,15,Lab Free / Preparation,Free
+B402,2,16,Lab Free / Preparation,Free
+B402,3,9,Lab Free / Preparation,Free
+B402,3,10,Lab Free / Preparation,Free
+B402,3,11,Lab Free / Preparation,Free
+B402,3,12,Lab Free / Preparation,Free
+B402,3,13,Lunch,Break
+B402,3,14,Digital Electronics Practical,Occupied
+B402,3,15,Digital Electronics Practical,Occupied
+B402,3,16,Digital Electronics Practical,Occupied
+B402,4,9,Embedded Systems Practical,Occupied
+B402,4,10,Embedded Systems Practical,Occupied
+B402,4,11,Embedded Systems Practical,Occupied
+B402,4,12,Lab Free / Preparation,Free
+B402,4,13,Lunch,Break
+B402,4,14,Lab Free / Preparation,Free
+B402,4,15,Lab Free / Preparation,Free
+B402,4,16,Lab Free / Preparation,Free
+B402,5,9,Digital Electronics Project Session,Occupied
+B402,5,10,Digital Electronics Project Session,Occupied
+B402,5,11,Digital Electronics Project Session,Occupied
+B402,5,12,Lab Closed,Free
+B402,5,13,Campus Closed (Weekend),Free
+B402,5,14,Campus Closed (Weekend),Free
+B402,5,15,Campus Closed (Weekend),Free
+B402,5,16,Campus Closed (Weekend),Free
+B402,6,9,Holiday / Campus Closed,Free
+B402,6,10,Holiday / Campus Closed,Free
+B402,6,11,Holiday / Campus Closed,Free
+B402,6,12,Holiday / Campus Closed,Free
+B402,6,13,Holiday / Campus Closed,Free
+B402,6,14,Holiday / Campus Closed,Free
+B402,6,15,Holiday / Campus Closed,Free
+B402,6,16,Holiday / Campus Closed,Free
+B403,0,9,Bioinformatics Lecture,Occupied
+B403,0,10,Genetics Lecture,Occupied
+B403,0,11,Self-study / Library Hour,Free
+B403,0,12,Cell Biology Lecture,Occupied
+B403,0,13,Lunch,Break
+B403,0,14,Bioinformatics Lecture,Occupied
+B403,0,15,Genetics Lecture,Occupied
+B403,0,16,Bioprocess Lecture,Occupied
+B403,1,9,Genetics Lecture,Occupied
+B403,1,10,Bioprocess Lecture,Occupied
+B403,1,11,Cell Biology Lecture,Occupied
+B403,1,12,Self-study / Library Hour,Free
+B403,1,13,Lunch,Break
+B403,1,14,Genetics Lecture,Occupied
+B403,1,15,Bioprocess Lecture,Occupied
+B403,1,16,Cell Biology Lecture,Occupied
+B403,2,9,Bioprocess Lecture,Occupied
+B403,2,10,Cell Biology Lecture,Occupied
+B403,2,11,Self-study / Library Hour,Free
+B403,2,12,Bioinformatics Lecture,Occupied
+B403,2,13,Lunch,Break
+B403,2,14,Bioprocess Lecture,Occupied
+B403,2,15,Cell Biology Lecture,Occupied
+B403,2,16,Self-study / Library Hour,Free
+B403,3,9,Cell Biology Lecture,Occupied
+B403,3,10,Immunology Lecture,Occupied
+B403,3,11,Bioinformatics Lecture,Occupied
+B403,3,12,Genetics Lecture,Occupied
+B403,3,13,Lunch,Break
+B403,3,14,Self-study / Library Hour,Free
+B403,3,15,Immunology Lecture,Occupied
+B403,3,16,Bioinformatics Lecture,Occupied
+B403,4,9,Self-study / Library Hour,Free
+B403,4,10,Bioinformatics Lecture,Occupied
+B403,4,11,Genetics Lecture,Occupied
+B403,4,12,Bioprocess Lecture,Occupied
+B403,4,13,Lunch,Break
+B403,4,14,Immunology Lecture,Occupied
+B403,4,15,Bioinformatics Lecture,Occupied
+B403,4,16,Genetics Lecture,Occupied
+B403,5,9,Genetics Tutorial,Occupied
+B403,5,10,Genetics Tutorial,Occupied
+B403,5,11,Genetics Tutorial,Occupied
+B403,5,12,Free / Mentoring Slot,Free
+B403,5,13,Campus Closed (Weekend),Free
+B403,5,14,Campus Closed (Weekend),Free
+B403,5,15,Campus Closed (Weekend),Free
+B403,5,16,Campus Closed (Weekend),Free
+B403,6,9,Holiday / Campus Closed,Free
+B403,6,10,Holiday / Campus Closed,Free
+B403,6,11,Holiday / Campus Closed,Free
+B403,6,12,Holiday / Campus Closed,Free
+B403,6,13,Holiday / Campus Closed,Free
+B403,6,14,Holiday / Campus Closed,Free
+B403,6,15,Holiday / Campus Closed,Free
+B403,6,16,Holiday / Campus Closed,Free
+B404,0,9,Faculty Room Regular Hours,Occupied
+B404,0,10,Faculty Room Regular Hours,Occupied
+B404,0,11,Faculty Room Regular Hours,Occupied
+B404,0,12,Faculty Room Regular Hours,Occupied
+B404,0,13,Lunch,Break
+B404,0,14,Faculty Room Regular Hours,Occupied
+B404,0,15,Faculty Room Regular Hours,Occupied
+B404,0,16,Faculty Room Regular Hours,Occupied
+B404,1,9,Faculty Room Regular Hours,Occupied
+B404,1,10,Faculty Room Regular Hours,Occupied
+B404,1,11,Faculty Room Regular Hours,Occupied
+B404,1,12,Faculty Room Regular Hours,Occupied
+B404,1,13,Lunch,Break
+B404,1,14,Faculty Room Regular Hours,Occupied
+B404,1,15,Faculty Room Regular Hours,Occupied
+B404,1,16,Faculty Room Regular Hours,Occupied
+B404,2,9,Faculty Room Regular Hours,Occupied
+B404,2,10,Faculty Room Regular Hours,Occupied
+B404,2,11,Faculty Room Regular Hours,Occupied
+B404,2,12,Faculty Room Regular Hours,Occupied
+B404,2,13,Lunch,Break
+B404,2,14,Faculty Room Regular Hours,Occupied
+B404,2,15,Faculty Room Regular Hours,Occupied
+B404,2,16,Faculty Room Regular Hours,Occupied
+B404,3,9,Faculty Room Regular Hours,Occupied
+B404,3,10,Faculty Room Regular Hours,Occupied
+B404,3,11,Faculty Room Regular Hours,Occupied
+B404,3,12,Faculty Room Regular Hours,Occupied
+B404,3,13,Lunch,Break
+B404,3,14,Faculty Room Regular Hours,Occupied
+B404,3,15,Faculty Room Regular Hours,Occupied
+B404,3,16,Faculty Room Regular Hours,Occupied
+B404,4,9,Faculty Room Regular Hours,Occupied
+B404,4,10,Faculty Room Regular Hours,Occupied
+B404,4,11,Faculty Room Regular Hours,Occupied
+B404,4,12,Faculty Room Regular Hours,Occupied
+B404,4,13,Lunch,Break
+B404,4,14,Faculty Room Regular Hours,Occupied
+B404,4,15,Faculty Room Regular Hours,Occupied
+B404,4,16,Faculty Room Regular Hours,Occupied
+B404,5,9,Faculty Room Half-Day Hours,Occupied
+B404,5,10,Faculty Room Half-Day Hours,Occupied
+B404,5,11,Faculty Room Half-Day Hours,Occupied
+B404,5,12,Faculty Room Half-Day Hours,Occupied
+B404,5,13,Campus Closed (Weekend),Free
+B404,5,14,Campus Closed (Weekend),Free
+B404,5,15,Campus Closed (Weekend),Free
+B404,5,16,Campus Closed (Weekend),Free
+B404,6,9,Holiday / Campus Closed,Free
+B404,6,10,Holiday / Campus Closed,Free
+B404,6,11,Holiday / Campus Closed,Free
+B404,6,12,Holiday / Campus Closed,Free
+B404,6,13,Holiday / Campus Closed,Free
+B404,6,14,Holiday / Campus Closed,Free
+B404,6,15,Holiday / Campus Closed,Free
+B404,6,16,Holiday / Campus Closed,Free
+C101,0,9,Fluid Mechanics Lecture,Occupied
+C101,0,10,Surveying Lecture,Occupied
+C101,0,11,Self-study / Library Hour,Free
+C101,0,12,Concrete Technology Lecture,Occupied
+C101,0,13,Lunch,Break
+C101,0,14,Fluid Mechanics Lecture,Occupied
+C101,0,15,Surveying Lecture,Occupied
+C101,0,16,Structural Analysis Lecture,Occupied
+C101,1,9,Surveying Lecture,Occupied
+C101,1,10,Structural Analysis Lecture,Occupied
+C101,1,11,Concrete Technology Lecture,Occupied
+C101,1,12,Geotechnical Engineering Lecture,Occupied
+C101,1,13,Lunch,Break
+C101,1,14,Self-study / Library Hour,Free
+C101,1,15,Structural Analysis Lecture,Occupied
+C101,1,16,Self-study / Library Hour,Free
+C101,2,9,Self-study / Library Hour,Free
+C101,2,10,Concrete Technology Lecture,Occupied
+C101,2,11,Geotechnical Engineering Lecture,Occupied
+C101,2,12,Fluid Mechanics Lecture,Occupied
+C101,2,13,Lunch,Break
+C101,2,14,Structural Analysis Lecture,Occupied
+C101,2,15,Concrete Technology Lecture,Occupied
+C101,2,16,Geotechnical Engineering Lecture,Occupied
+C101,3,9,Concrete Technology Lecture,Occupied
+C101,3,10,Self-study / Library Hour,Free
+C101,3,11,Fluid Mechanics Lecture,Occupied
+C101,3,12,Surveying Lecture,Occupied
+C101,3,13,Lunch,Break
+C101,3,14,Concrete Technology Lecture,Occupied
+C101,3,15,Geotechnical Engineering Lecture,Occupied
+C101,3,16,Fluid Mechanics Lecture,Occupied
+C101,4,9,Geotechnical Engineering Lecture,Occupied
+C101,4,10,Fluid Mechanics Lecture,Occupied
+C101,4,11,Self-study / Library Hour,Free
+C101,4,12,Structural Analysis Lecture,Occupied
+C101,4,13,Lunch,Break
+C101,4,14,Geotechnical Engineering Lecture,Occupied
+C101,4,15,Fluid Mechanics Lecture,Occupied
+C101,4,16,Self-study / Library Hour,Free
+C101,5,9,Surveying Tutorial,Occupied
+C101,5,10,Surveying Tutorial,Occupied
+C101,5,11,Surveying Tutorial,Occupied
+C101,5,12,Free / Mentoring Slot,Free
+C101,5,13,Campus Closed (Weekend),Free
+C101,5,14,Campus Closed (Weekend),Free
+C101,5,15,Campus Closed (Weekend),Free
+C101,5,16,Campus Closed (Weekend),Free
+C101,6,9,Holiday / Campus Closed,Free
+C101,6,10,Holiday / Campus Closed,Free
+C101,6,11,Holiday / Campus Closed,Free
+C101,6,12,Holiday / Campus Closed,Free
+C101,6,13,Holiday / Campus Closed,Free
+C101,6,14,Holiday / Campus Closed,Free
+C101,6,15,Holiday / Campus Closed,Free
+C101,6,16,Holiday / Campus Closed,Free
+C102,0,9,Surveying Practical,Occupied
+C102,0,10,Surveying Practical,Occupied
+C102,0,11,Surveying Practical,Occupied
+C102,0,12,Lab Free / Preparation,Free
+C102,0,13,Lunch,Break
+C102,0,14,Lab Free / Preparation,Free
+C102,0,15,Lab Free / Preparation,Free
+C102,0,16,Lab Free / Preparation,Free
+C102,1,9,Lab Free / Preparation,Free
+C102,1,10,Lab Free / Preparation,Free
+C102,1,11,Lab Free / Preparation,Free
+C102,1,12,Lab Free / Preparation,Free
+C102,1,13,Lunch,Break
+C102,1,14,Geotechnical Engineering Practical,Occupied
+C102,1,15,Geotechnical Engineering Practical,Occupied
+C102,1,16,Geotechnical Engineering Practical,Occupied
+C102,2,9,Concrete Technology Practical,Occupied
+C102,2,10,Concrete Technology Practical,Occupied
+C102,2,11,Concrete Technology Practical,Occupied
+C102,2,12,Lab Free / Preparation,Free
+C102,2,13,Lunch,Break
+C102,2,14,Lab Free / Preparation,Free
+C102,2,15,Lab Free / Preparation,Free
+C102,2,16,Lab Free / Preparation,Free
+C102,3,9,Lab Free / Preparation,Free
+C102,3,10,Lab Free / Preparation,Free
+C102,3,11,Lab Free / Preparation,Free
+C102,3,12,Lab Free / Preparation,Free
+C102,3,13,Lunch,Break
+C102,3,14,Surveying Practical,Occupied
+C102,3,15,Surveying Practical,Occupied
+C102,3,16,Surveying Practical,Occupied
+C102,4,9,Fluid Mechanics Practical,Occupied
+C102,4,10,Fluid Mechanics Practical,Occupied
+C102,4,11,Fluid Mechanics Practical,Occupied
+C102,4,12,Lab Free / Preparation,Free
+C102,4,13,Lunch,Break
+C102,4,14,Lab Free / Preparation,Free
+C102,4,15,Lab Free / Preparation,Free
+C102,4,16,Lab Free / Preparation,Free
+C102,5,9,Surveying Project Session,Occupied
+C102,5,10,Surveying Project Session,Occupied
+C102,5,11,Surveying Project Session,Occupied
+C102,5,12,Lab Closed,Free
+C102,5,13,Campus Closed (Weekend),Free
+C102,5,14,Campus Closed (Weekend),Free
+C102,5,15,Campus Closed (Weekend),Free
+C102,5,16,Campus Closed (Weekend),Free
+C102,6,9,Holiday / Campus Closed,Free
+C102,6,10,Holiday / Campus Closed,Free
+C102,6,11,Holiday / Campus Closed,Free
+C102,6,12,Holiday / Campus Closed,Free
+C102,6,13,Holiday / Campus Closed,Free
+C102,6,14,Holiday / Campus Closed,Free
+C102,6,15,Holiday / Campus Closed,Free
+C102,6,16,Holiday / Campus Closed,Free
+C103,0,9,Lab Free / Preparation,Free
+C103,0,10,Lab Free / Preparation,Free
+C103,0,11,Lab Free / Preparation,Free
+C103,0,12,Lab Free / Preparation,Free
+C103,0,13,Lunch,Break
+C103,0,14,Concrete Technology Practical,Occupied
+C103,0,15,Concrete Technology Practical,Occupied
+C103,0,16,Concrete Technology Practical,Occupied
+C103,1,9,Structural Analysis Practical,Occupied
+C103,1,10,Structural Analysis Practical,Occupied
+C103,1,11,Structural Analysis Practical,Occupied
+C103,1,12,Lab Free / Preparation,Free
+C103,1,13,Lunch,Break
+C103,1,14,Lab Free / Preparation,Free
+C103,1,15,Lab Free / Preparation,Free
+C103,1,16,Lab Free / Preparation,Free
+C103,2,9,Lab Free / Preparation,Free
+C103,2,10,Lab Free / Preparation,Free
+C103,2,11,Lab Free / Preparation,Free
+C103,2,12,Lab Free / Preparation,Free
+C103,2,13,Lunch,Break
+C103,2,14,Fluid Mechanics Practical,Occupied
+C103,2,15,Fluid Mechanics Practical,Occupied
+C103,2,16,Fluid Mechanics Practical,Occupied
+C103,3,9,Geotechnical Engineering Practical,Occupied
+C103,3,10,Geotechnical Engineering Practical,Occupied
+C103,3,11,Geotechnical Engineering Practical,Occupied
+C103,3,12,Lab Free / Preparation,Free
+C103,3,13,Lunch,Break
+C103,3,14,Lab Free / Preparation,Free
+C103,3,15,Lab Free / Preparation,Free
+C103,3,16,Lab Free / Preparation,Free
+C103,4,9,Lab Free / Preparation,Free
+C103,4,10,Lab Free / Preparation,Free
+C103,4,11,Lab Free / Preparation,Free
+C103,4,12,Lab Free / Preparation,Free
+C103,4,13,Lunch,Break
+C103,4,14,Structural Analysis Practical,Occupied
+C103,4,15,Structural Analysis Practical,Occupied
+C103,4,16,Structural Analysis Practical,Occupied
+C103,5,9,Surveying Project Session,Occupied
+C103,5,10,Surveying Project Session,Occupied
+C103,5,11,Surveying Project Session,Occupied
+C103,5,12,Lab Closed,Free
+C103,5,13,Campus Closed (Weekend),Free
+C103,5,14,Campus Closed (Weekend),Free
+C103,5,15,Campus Closed (Weekend),Free
+C103,5,16,Campus Closed (Weekend),Free
+C103,6,9,Holiday / Campus Closed,Free
+C103,6,10,Holiday / Campus Closed,Free
+C103,6,11,Holiday / Campus Closed,Free
+C103,6,12,Holiday / Campus Closed,Free
+C103,6,13,Holiday / Campus Closed,Free
+C103,6,14,Holiday / Campus Closed,Free
+C103,6,15,Holiday / Campus Closed,Free
+C103,6,16,Holiday / Campus Closed,Free
+C201,0,9,Self-study / Library Hour,Free
+C201,0,10,Circuit Theory Lecture,Occupied
+C201,0,11,Power Systems Lecture,Occupied
+C201,0,12,Control Systems Lecture,Occupied
+C201,0,13,Lunch,Break
+C201,0,14,Power Electronics Lecture,Occupied
+C201,0,15,Circuit Theory Lecture,Occupied
+C201,0,16,Self-study / Library Hour,Free
+C201,1,9,Circuit Theory Lecture,Occupied
+C201,1,10,Self-study / Library Hour,Free
+C201,1,11,Control Systems Lecture,Occupied
+C201,1,12,Electrical Machines Lecture,Occupied
+C201,1,13,Lunch,Break
+C201,1,14,Circuit Theory Lecture,Occupied
+C201,1,15,Power Systems Lecture,Occupied
+C201,1,16,Control Systems Lecture,Occupied
+C201,2,9,Power Systems Lecture,Occupied
+C201,2,10,Control Systems Lecture,Occupied
+C201,2,11,Self-study / Library Hour,Free
+C201,2,12,Power Electronics Lecture,Occupied
+C201,2,13,Lunch,Break
+C201,2,14,Power Systems Lecture,Occupied
+C201,2,15,Control Systems Lecture,Occupied
+C201,2,16,Electrical Machines Lecture,Occupied
+C201,3,9,Control Systems Lecture,Occupied
+C201,3,10,Electrical Machines Lecture,Occupied
+C201,3,11,Power Electronics Lecture,Occupied
+C201,3,12,Self-study / Library Hour,Free
+C201,3,13,Lunch,Break
+C201,3,14,Control Systems Lecture,Occupied
+C201,3,15,Electrical Machines Lecture,Occupied
+C201,3,16,Self-study / Library Hour,Free
+C201,4,9,Electrical Machines Lecture,Occupied
+C201,4,10,Power Electronics Lecture,Occupied
+C201,4,11,Self-study / Library Hour,Free
+C201,4,12,Power Systems Lecture,Occupied
+C201,4,13,Lunch,Break
+C201,4,14,Electrical Machines Lecture,Occupied
+C201,4,15,Power Electronics Lecture,Occupied
+C201,4,16,Circuit Theory Lecture,Occupied
+C201,5,9,Circuit Theory Tutorial,Occupied
+C201,5,10,Circuit Theory Tutorial,Occupied
+C201,5,11,Circuit Theory Tutorial,Occupied
+C201,5,12,Free / Mentoring Slot,Free
+C201,5,13,Campus Closed (Weekend),Free
+C201,5,14,Campus Closed (Weekend),Free
+C201,5,15,Campus Closed (Weekend),Free
+C201,5,16,Campus Closed (Weekend),Free
+C201,6,9,Holiday / Campus Closed,Free
+C201,6,10,Holiday / Campus Closed,Free
+C201,6,11,Holiday / Campus Closed,Free
+C201,6,12,Holiday / Campus Closed,Free
+C201,6,13,Holiday / Campus Closed,Free
+C201,6,14,Holiday / Campus Closed,Free
+C201,6,15,Holiday / Campus Closed,Free
+C201,6,16,Holiday / Campus Closed,Free
+C202,0,9,Circuit Theory Practical,Occupied
+C202,0,10,Circuit Theory Practical,Occupied
+C202,0,11,Circuit Theory Practical,Occupied
+C202,0,12,Lab Free / Preparation,Free
+C202,0,13,Lunch,Break
+C202,0,14,Lab Free / Preparation,Free
+C202,0,15,Lab Free / Preparation,Free
+C202,0,16,Lab Free / Preparation,Free
+C202,1,9,Lab Free / Preparation,Free
+C202,1,10,Lab Free / Preparation,Free
+C202,1,11,Lab Free / Preparation,Free
+C202,1,12,Lab Free / Preparation,Free
+C202,1,13,Lunch,Break
+C202,1,14,Electrical Machines Practical,Occupied
+C202,1,15,Electrical Machines Practical,Occupied
+C202,1,16,Electrical Machines Practical,Occupied
+C202,2,9,Control Systems Practical,Occupied
+C202,2,10,Control Systems Practical,Occupied
+C202,2,11,Control Systems Practical,Occupied
+C202,2,12,Lab Free / Preparation,Free
+C202,2,13,Lunch,Break
+C202,2,14,Lab Free / Preparation,Free
+C202,2,15,Lab Free / Preparation,Free
+C202,2,16,Lab Free / Preparation,Free
+C202,3,9,Lab Free / Preparation,Free
+C202,3,10,Lab Free / Preparation,Free
+C202,3,11,Lab Free / Preparation,Free
+C202,3,12,Lab Free / Preparation,Free
+C202,3,13,Lunch,Break
+C202,3,14,Circuit Theory Practical,Occupied
+C202,3,15,Circuit Theory Practical,Occupied
+C202,3,16,Circuit Theory Practical,Occupied
+C202,4,9,Power Electronics Practical,Occupied
+C202,4,10,Power Electronics Practical,Occupied
+C202,4,11,Power Electronics Practical,Occupied
+C202,4,12,Lab Free / Preparation,Free
+C202,4,13,Lunch,Break
+C202,4,14,Lab Free / Preparation,Free
+C202,4,15,Lab Free / Preparation,Free
+C202,4,16,Lab Free / Preparation,Free
+C202,5,9,Circuit Theory Project Session,Occupied
+C202,5,10,Circuit Theory Project Session,Occupied
+C202,5,11,Circuit Theory Project Session,Occupied
+C202,5,12,Lab Closed,Free
+C202,5,13,Campus Closed (Weekend),Free
+C202,5,14,Campus Closed (Weekend),Free
+C202,5,15,Campus Closed (Weekend),Free
+C202,5,16,Campus Closed (Weekend),Free
+C202,6,9,Holiday / Campus Closed,Free
+C202,6,10,Holiday / Campus Closed,Free
+C202,6,11,Holiday / Campus Closed,Free
+C202,6,12,Holiday / Campus Closed,Free
+C202,6,13,Holiday / Campus Closed,Free
+C202,6,14,Holiday / Campus Closed,Free
+C202,6,15,Holiday / Campus Closed,Free
+C202,6,16,Holiday / Campus Closed,Free
+C203,0,9,Lab Free / Preparation,Free
+C203,0,10,Lab Free / Preparation,Free
+C203,0,11,Lab Free / Preparation,Free
+C203,0,12,Lab Free / Preparation,Free
+C203,0,13,Lunch,Break
+C203,0,14,Control Systems Practical,Occupied
+C203,0,15,Control Systems Practical,Occupied
+C203,0,16,Control Systems Practical,Occupied
+C203,1,9,Power Systems Practical,Occupied
+C203,1,10,Power Systems Practical,Occupied
+C203,1,11,Power Systems Practical,Occupied
+C203,1,12,Lab Free / Preparation,Free
+C203,1,13,Lunch,Break
+C203,1,14,Lab Free / Preparation,Free
+C203,1,15,Lab Free / Preparation,Free
+C203,1,16,Lab Free / Preparation,Free
+C203,2,9,Lab Free / Preparation,Free
+C203,2,10,Lab Free / Preparation,Free
+C203,2,11,Lab Free / Preparation,Free
+C203,2,12,Lab Free / Preparation,Free
+C203,2,13,Lunch,Break
+C203,2,14,Power Electronics Practical,Occupied
+C203,2,15,Power Electronics Practical,Occupied
+C203,2,16,Power Electronics Practical,Occupied
+C203,3,9,Electrical Machines Practical,Occupied
+C203,3,10,Electrical Machines Practical,Occupied
+C203,3,11,Electrical Machines Practical,Occupied
+C203,3,12,Lab Free / Preparation,Free
+C203,3,13,Lunch,Break
+C203,3,14,Lab Free / Preparation,Free
+C203,3,15,Lab Free / Preparation,Free
+C203,3,16,Lab Free / Preparation,Free
+C203,4,9,Lab Free / Preparation,Free
+C203,4,10,Lab Free / Preparation,Free
+C203,4,11,Lab Free / Preparation,Free
+C203,4,12,Lab Free / Preparation,Free
+C203,4,13,Lunch,Break
+C203,4,14,Power Systems Practical,Occupied
+C203,4,15,Power Systems Practical,Occupied
+C203,4,16,Power Systems Practical,Occupied
+C203,5,9,Circuit Theory Project Session,Occupied
+C203,5,10,Circuit Theory Project Session,Occupied
+C203,5,11,Circuit Theory Project Session,Occupied
+C203,5,12,Lab Closed,Free
+C203,5,13,Campus Closed (Weekend),Free
+C203,5,14,Campus Closed (Weekend),Free
+C203,5,15,Campus Closed (Weekend),Free
+C203,5,16,Campus Closed (Weekend),Free
+C203,6,9,Holiday / Campus Closed,Free
+C203,6,10,Holiday / Campus Closed,Free
+C203,6,11,Holiday / Campus Closed,Free
+C203,6,12,Holiday / Campus Closed,Free
+C203,6,13,Holiday / Campus Closed,Free
+C203,6,14,Holiday / Campus Closed,Free
+C203,6,15,Holiday / Campus Closed,Free
+C203,6,16,Holiday / Campus Closed,Free
+C301,0,9,Transmission Systems Lecture,Occupied
+C301,0,10,IC Engines Lecture,Occupied
+C301,0,11,Self-study / Library Hour,Free
+C301,0,12,Automotive Electricals Lecture,Occupied
+C301,0,13,Lunch,Break
+C301,0,14,Transmission Systems Lecture,Occupied
+C301,0,15,IC Engines Lecture,Occupied
+C301,0,16,Vehicle Dynamics Lecture,Occupied
+C301,1,9,IC Engines Lecture,Occupied
+C301,1,10,Vehicle Dynamics Lecture,Occupied
+C301,1,11,Automotive Electricals Lecture,Occupied
+C301,1,12,Self-study / Library Hour,Free
+C301,1,13,Lunch,Break
+C301,1,14,IC Engines Lecture,Occupied
+C301,1,15,Vehicle Dynamics Lecture,Occupied
+C301,1,16,Automotive Electricals Lecture,Occupied
+C301,2,9,Vehicle Dynamics Lecture,Occupied
+C301,2,10,Automotive Electricals Lecture,Occupied
+C301,2,11,Self-study / Library Hour,Free
+C301,2,12,Transmission Systems Lecture,Occupied
+C301,2,13,Lunch,Break
+C301,2,14,Vehicle Dynamics Lecture,Occupied
+C301,2,15,Automotive Electricals Lecture,Occupied
+C301,2,16,Self-study / Library Hour,Free
+C301,3,9,Automotive Electricals Lecture,Occupied
+C301,3,10,Chassis Design Lecture,Occupied
+C301,3,11,Transmission Systems Lecture,Occupied
+C301,3,12,IC Engines Lecture,Occupied
+C301,3,13,Lunch,Break
+C301,3,14,Self-study / Library Hour,Free
+C301,3,15,Chassis Design Lecture,Occupied
+C301,3,16,Transmission Systems Lecture,Occupied
+C301,4,9,Self-study / Library Hour,Free
+C301,4,10,Transmission Systems Lecture,Occupied
+C301,4,11,IC Engines Lecture,Occupied
+C301,4,12,Vehicle Dynamics Lecture,Occupied
+C301,4,13,Lunch,Break
+C301,4,14,Chassis Design Lecture,Occupied
+C301,4,15,Transmission Systems Lecture,Occupied
+C301,4,16,IC Engines Lecture,Occupied
+C301,5,9,IC Engines Tutorial,Occupied
+C301,5,10,IC Engines Tutorial,Occupied
+C301,5,11,IC Engines Tutorial,Occupied
+C301,5,12,Free / Mentoring Slot,Free
+C301,5,13,Campus Closed (Weekend),Free
+C301,5,14,Campus Closed (Weekend),Free
+C301,5,15,Campus Closed (Weekend),Free
+C301,5,16,Campus Closed (Weekend),Free
+C301,6,9,Holiday / Campus Closed,Free
+C301,6,10,Holiday / Campus Closed,Free
+C301,6,11,Holiday / Campus Closed,Free
+C301,6,12,Holiday / Campus Closed,Free
+C301,6,13,Holiday / Campus Closed,Free
+C301,6,14,Holiday / Campus Closed,Free
+C301,6,15,Holiday / Campus Closed,Free
+C301,6,16,Holiday / Campus Closed,Free
+C302,0,9,IC Engines Practical,Occupied
+C302,0,10,IC Engines Practical,Occupied
+C302,0,11,IC Engines Practical,Occupied
+C302,0,12,Lab Free / Preparation,Free
+C302,0,13,Lunch,Break
+C302,0,14,Lab Free / Preparation,Free
+C302,0,15,Lab Free / Preparation,Free
+C302,0,16,Lab Free / Preparation,Free
+C302,1,9,Lab Free / Preparation,Free
+C302,1,10,Lab Free / Preparation,Free
+C302,1,11,Lab Free / Preparation,Free
+C302,1,12,Lab Free / Preparation,Free
+C302,1,13,Lunch,Break
+C302,1,14,Chassis Design Practical,Occupied
+C302,1,15,Chassis Design Practical,Occupied
+C302,1,16,Chassis Design Practical,Occupied
+C302,2,9,Automotive Electricals Practical,Occupied
+C302,2,10,Automotive Electricals Practical,Occupied
+C302,2,11,Automotive Electricals Practical,Occupied
+C302,2,12,Lab Free / Preparation,Free
+C302,2,13,Lunch,Break
+C302,2,14,Lab Free / Preparation,Free
+C302,2,15,Lab Free / Preparation,Free
+C302,2,16,Lab Free / Preparation,Free
+C302,3,9,Lab Free / Preparation,Free
+C302,3,10,Lab Free / Preparation,Free
+C302,3,11,Lab Free / Preparation,Free
+C302,3,12,Lab Free / Preparation,Free
+C302,3,13,Lunch,Break
+C302,3,14,IC Engines Practical,Occupied
+C302,3,15,IC Engines Practical,Occupied
+C302,3,16,IC Engines Practical,Occupied
+C302,4,9,Transmission Systems Practical,Occupied
+C302,4,10,Transmission Systems Practical,Occupied
+C302,4,11,Transmission Systems Practical,Occupied
+C302,4,12,Lab Free / Preparation,Free
+C302,4,13,Lunch,Break
+C302,4,14,Lab Free / Preparation,Free
+C302,4,15,Lab Free / Preparation,Free
+C302,4,16,Lab Free / Preparation,Free
+C302,5,9,IC Engines Project Session,Occupied
+C302,5,10,IC Engines Project Session,Occupied
+C302,5,11,IC Engines Project Session,Occupied
+C302,5,12,Lab Closed,Free
+C302,5,13,Campus Closed (Weekend),Free
+C302,5,14,Campus Closed (Weekend),Free
+C302,5,15,Campus Closed (Weekend),Free
+C302,5,16,Campus Closed (Weekend),Free
+C302,6,9,Holiday / Campus Closed,Free
+C302,6,10,Holiday / Campus Closed,Free
+C302,6,11,Holiday / Campus Closed,Free
+C302,6,12,Holiday / Campus Closed,Free
+C302,6,13,Holiday / Campus Closed,Free
+C302,6,14,Holiday / Campus Closed,Free
+C302,6,15,Holiday / Campus Closed,Free
+C302,6,16,Holiday / Campus Closed,Free
+C303,0,9,Lab Free / Preparation,Free
+C303,0,10,Lab Free / Preparation,Free
+C303,0,11,Lab Free / Preparation,Free
+C303,0,12,Lab Free / Preparation,Free
+C303,0,13,Lunch,Break
+C303,0,14,Automotive Electricals Practical,Occupied
+C303,0,15,Automotive Electricals Practical,Occupied
+C303,0,16,Automotive Electricals Practical,Occupied
+C303,1,9,Vehicle Dynamics Practical,Occupied
+C303,1,10,Vehicle Dynamics Practical,Occupied
+C303,1,11,Vehicle Dynamics Practical,Occupied
+C303,1,12,Lab Free / Preparation,Free
+C303,1,13,Lunch,Break
+C303,1,14,Lab Free / Preparation,Free
+C303,1,15,Lab Free / Preparation,Free
+C303,1,16,Lab Free / Preparation,Free
+C303,2,9,Lab Free / Preparation,Free
+C303,2,10,Lab Free / Preparation,Free
+C303,2,11,Lab Free / Preparation,Free
+C303,2,12,Lab Free / Preparation,Free
+C303,2,13,Lunch,Break
+C303,2,14,Transmission Systems Practical,Occupied
+C303,2,15,Transmission Systems Practical,Occupied
+C303,2,16,Transmission Systems Practical,Occupied
+C303,3,9,Chassis Design Practical,Occupied
+C303,3,10,Chassis Design Practical,Occupied
+C303,3,11,Chassis Design Practical,Occupied
+C303,3,12,Lab Free / Preparation,Free
+C303,3,13,Lunch,Break
+C303,3,14,Lab Free / Preparation,Free
+C303,3,15,Lab Free / Preparation,Free
+C303,3,16,Lab Free / Preparation,Free
+C303,4,9,Lab Free / Preparation,Free
+C303,4,10,Lab Free / Preparation,Free
+C303,4,11,Lab Free / Preparation,Free
+C303,4,12,Lab Free / Preparation,Free
+C303,4,13,Lunch,Break
+C303,4,14,Vehicle Dynamics Practical,Occupied
+C303,4,15,Vehicle Dynamics Practical,Occupied
+C303,4,16,Vehicle Dynamics Practical,Occupied
+C303,5,9,IC Engines Project Session,Occupied
+C303,5,10,IC Engines Project Session,Occupied
+C303,5,11,IC Engines Project Session,Occupied
+C303,5,12,Lab Closed,Free
+C303,5,13,Campus Closed (Weekend),Free
+C303,5,14,Campus Closed (Weekend),Free
+C303,5,15,Campus Closed (Weekend),Free
+C303,5,16,Campus Closed (Weekend),Free
+C303,6,9,Holiday / Campus Closed,Free
+C303,6,10,Holiday / Campus Closed,Free
+C303,6,11,Holiday / Campus Closed,Free
+C303,6,12,Holiday / Campus Closed,Free
+C303,6,13,Holiday / Campus Closed,Free
+C303,6,14,Holiday / Campus Closed,Free
+C303,6,15,Holiday / Campus Closed,Free
+C303,6,16,Holiday / Campus Closed,Free
+D101,0,9,Environmental Studies Lecture,Occupied
+D101,0,10,Engineering Physics Lecture,Occupied
+D101,0,11,Self-study / Library Hour,Free
+D101,0,12,Calculus and Linear Algebra Lecture,Occupied
+D101,0,13,Lunch,Break
+D101,0,14,Environmental Studies Lecture,Occupied
+D101,0,15,Engineering Physics Lecture,Occupied
+D101,0,16,Engineering Chemistry Lecture,Occupied
+D101,1,9,Engineering Physics Lecture,Occupied
+D101,1,10,Engineering Chemistry Lecture,Occupied
+D101,1,11,Calculus and Linear Algebra Lecture,Occupied
+D101,1,12,Technical English Lecture,Occupied
+D101,1,13,Lunch,Break
+D101,1,14,Self-study / Library Hour,Free
+D101,1,15,Engineering Chemistry Lecture,Occupied
+D101,1,16,Self-study / Library Hour,Free
+D101,2,9,Self-study / Library Hour,Free
+D101,2,10,Calculus and Linear Algebra Lecture,Occupied
+D101,2,11,Technical English Lecture,Occupied
+D101,2,12,Environmental Studies Lecture,Occupied
+D101,2,13,Lunch,Break
+D101,2,14,Engineering Chemistry Lecture,Occupied
+D101,2,15,Calculus and Linear Algebra Lecture,Occupied
+D101,2,16,Technical English Lecture,Occupied
+D101,3,9,Calculus and Linear Algebra Lecture,Occupied
+D101,3,10,Self-study / Library Hour,Free
+D101,3,11,Environmental Studies Lecture,Occupied
+D101,3,12,Engineering Physics Lecture,Occupied
+D101,3,13,Lunch,Break
+D101,3,14,Calculus and Linear Algebra Lecture,Occupied
+D101,3,15,Technical English Lecture,Occupied
+D101,3,16,Environmental Studies Lecture,Occupied
+D101,4,9,Technical English Lecture,Occupied
+D101,4,10,Environmental Studies Lecture,Occupied
+D101,4,11,Self-study / Library Hour,Free
+D101,4,12,Engineering Chemistry Lecture,Occupied
+D101,4,13,Lunch,Break
+D101,4,14,Technical English Lecture,Occupied
+D101,4,15,Environmental Studies Lecture,Occupied
+D101,4,16,Self-study / Library Hour,Free
+D101,5,9,Engineering Physics Tutorial,Occupied
+D101,5,10,Engineering Physics Tutorial,Occupied
+D101,5,11,Engineering Physics Tutorial,Occupied
+D101,5,12,Free / Mentoring Slot,Free
+D101,5,13,Campus Closed (Weekend),Free
+D101,5,14,Campus Closed (Weekend),Free
+D101,5,15,Campus Closed (Weekend),Free
+D101,5,16,Campus Closed (Weekend),Free
+D101,6,9,Holiday / Campus Closed,Free
+D101,6,10,Holiday / Campus Closed,Free
+D101,6,11,Holiday / Campus Closed,Free
+D101,6,12,Holiday / Campus Closed,Free
+D101,6,13,Holiday / Campus Closed,Free
+D101,6,14,Holiday / Campus Closed,Free
+D101,6,15,Holiday / Campus Closed,Free
+D101,6,16,Holiday / Campus Closed,Free
+D102,0,9,Engineering Physics Practical,Occupied
+D102,0,10,Engineering Physics Practical,Occupied
+D102,0,11,Engineering Physics Practical,Occupied
+D102,0,12,Lab Free / Preparation,Free
+D102,0,13,Lunch,Break
+D102,0,14,Lab Free / Preparation,Free
+D102,0,15,Lab Free / Preparation,Free
+D102,0,16,Lab Free / Preparation,Free
+D102,1,9,Lab Free / Preparation,Free
+D102,1,10,Lab Free / Preparation,Free
+D102,1,11,Lab Free / Preparation,Free
+D102,1,12,Lab Free / Preparation,Free
+D102,1,13,Lunch,Break
+D102,1,14,Technical English Practical,Occupied
+D102,1,15,Technical English Practical,Occupied
+D102,1,16,Technical English Practical,Occupied
+D102,2,9,Calculus and Linear Algebra Practical,Occupied
+D102,2,10,Calculus and Linear Algebra Practical,Occupied
+D102,2,11,Calculus and Linear Algebra Practical,Occupied
+D102,2,12,Lab Free / Preparation,Free
+D102,2,13,Lunch,Break
+D102,2,14,Lab Free / Preparation,Free
+D102,2,15,Lab Free / Preparation,Free
+D102,2,16,Lab Free / Preparation,Free
+D102,3,9,Lab Free / Preparation,Free
+D102,3,10,Lab Free / Preparation,Free
+D102,3,11,Lab Free / Preparation,Free
+D102,3,12,Lab Free / Preparation,Free
+D102,3,13,Lunch,Break
+D102,3,14,Engineering Physics Practical,Occupied
+D102,3,15,Engineering Physics Practical,Occupied
+D102,3,16,Engineering Physics Practical,Occupied
+D102,4,9,Environmental Studies Practical,Occupied
+D102,4,10,Environmental Studies Practical,Occupied
+D102,4,11,Environmental Studies Practical,Occupied
+D102,4,12,Lab Free / Preparation,Free
+D102,4,13,Lunch,Break
+D102,4,14,Lab Free / Preparation,Free
+D102,4,15,Lab Free / Preparation,Free
+D102,4,16,Lab Free / Preparation,Free
+D102,5,9,Engineering Physics Project Session,Occupied
+D102,5,10,Engineering Physics Project Session,Occupied
+D102,5,11,Engineering Physics Project Session,Occupied
+D102,5,12,Lab Closed,Free
+D102,5,13,Campus Closed (Weekend),Free
+D102,5,14,Campus Closed (Weekend),Free
+D102,5,15,Campus Closed (Weekend),Free
+D102,5,16,Campus Closed (Weekend),Free
+D102,6,9,Holiday / Campus Closed,Free
+D102,6,10,Holiday / Campus Closed,Free
+D102,6,11,Holiday / Campus Closed,Free
+D102,6,12,Holiday / Campus Closed,Free
+D102,6,13,Holiday / Campus Closed,Free
+D102,6,14,Holiday / Campus Closed,Free
+D102,6,15,Holiday / Campus Closed,Free
+D102,6,16,Holiday / Campus Closed,Free
+D103,0,9,Environmental Studies Lecture,Occupied
+D103,0,10,Engineering Physics Lecture,Occupied
+D103,0,11,Self-study / Library Hour,Free
+D103,0,12,Calculus and Linear Algebra Lecture,Occupied
+D103,0,13,Lunch,Break
+D103,0,14,Environmental Studies Lecture,Occupied
+D103,0,15,Engineering Physics Lecture,Occupied
+D103,0,16,Engineering Chemistry Lecture,Occupied
+D103,1,9,Engineering Physics Lecture,Occupied
+D103,1,10,Engineering Chemistry Lecture,Occupied
+D103,1,11,Calculus and Linear Algebra Lecture,Occupied
+D103,1,12,Self-study / Library Hour,Free
+D103,1,13,Lunch,Break
+D103,1,14,Engineering Physics Lecture,Occupied
+D103,1,15,Engineering Chemistry Lecture,Occupied
+D103,1,16,Calculus and Linear Algebra Lecture,Occupied
+D103,2,9,Engineering Chemistry Lecture,Occupied
+D103,2,10,Calculus and Linear Algebra Lecture,Occupied
+D103,2,11,Self-study / Library Hour,Free
+D103,2,12,Environmental Studies Lecture,Occupied
+D103,2,13,Lunch,Break
+D103,2,14,Engineering Chemistry Lecture,Occupied
+D103,2,15,Calculus and Linear Algebra Lecture,Occupied
+D103,2,16,Self-study / Library Hour,Free
+D103,3,9,Calculus and Linear Algebra Lecture,Occupied
+D103,3,10,Technical English Lecture,Occupied
+D103,3,11,Environmental Studies Lecture,Occupied
+D103,3,12,Engineering Physics Lecture,Occupied
+D103,3,13,Lunch,Break
+D103,3,14,Self-study / Library Hour,Free
+D103,3,15,Technical English Lecture,Occupied
+D103,3,16,Environmental Studies Lecture,Occupied
+D103,4,9,Self-study / Library Hour,Free
+D103,4,10,Environmental Studies Lecture,Occupied
+D103,4,11,Engineering Physics Lecture,Occupied
+D103,4,12,Engineering Chemistry Lecture,Occupied
+D103,4,13,Lunch,Break
+D103,4,14,Technical English Lecture,Occupied
+D103,4,15,Environmental Studies Lecture,Occupied
+D103,4,16,Engineering Physics Lecture,Occupied
+D103,5,9,Engineering Physics Tutorial,Occupied
+D103,5,10,Engineering Physics Tutorial,Occupied
+D103,5,11,Engineering Physics Tutorial,Occupied
+D103,5,12,Free / Mentoring Slot,Free
+D103,5,13,Campus Closed (Weekend),Free
+D103,5,14,Campus Closed (Weekend),Free
+D103,5,15,Campus Closed (Weekend),Free
+D103,5,16,Campus Closed (Weekend),Free
+D103,6,9,Holiday / Campus Closed,Free
+D103,6,10,Holiday / Campus Closed,Free
+D103,6,11,Holiday / Campus Closed,Free
+D103,6,12,Holiday / Campus Closed,Free
+D103,6,13,Holiday / Campus Closed,Free
+D103,6,14,Holiday / Campus Closed,Free
+D103,6,15,Holiday / Campus Closed,Free
+D103,6,16,Holiday / Campus Closed,Free
+D104,0,9,Engineering Physics Practical,Occupied
+D104,0,10,Engineering Physics Practical,Occupied
+D104,0,11,Engineering Physics Practical,Occupied
+D104,0,12,Lab Free / Preparation,Free
+D104,0,13,Lunch,Break
+D104,0,14,Lab Free / Preparation,Free
+D104,0,15,Lab Free / Preparation,Free
+D104,0,16,Lab Free / Preparation,Free
+D104,1,9,Lab Free / Preparation,Free
+D104,1,10,Lab Free / Preparation,Free
+D104,1,11,Lab Free / Preparation,Free
+D104,1,12,Lab Free / Preparation,Free
+D104,1,13,Lunch,Break
+D104,1,14,Technical English Practical,Occupied
+D104,1,15,Technical English Practical,Occupied
+D104,1,16,Technical English Practical,Occupied
+D104,2,9,Calculus and Linear Algebra Practical,Occupied
+D104,2,10,Calculus and Linear Algebra Practical,Occupied
+D104,2,11,Calculus and Linear Algebra Practical,Occupied
+D104,2,12,Lab Free / Preparation,Free
+D104,2,13,Lunch,Break
+D104,2,14,Lab Free / Preparation,Free
+D104,2,15,Lab Free / Preparation,Free
+D104,2,16,Lab Free / Preparation,Free
+D104,3,9,Lab Free / Preparation,Free
+D104,3,10,Lab Free / Preparation,Free
+D104,3,11,Lab Free / Preparation,Free
+D104,3,12,Lab Free / Preparation,Free
+D104,3,13,Lunch,Break
+D104,3,14,Engineering Physics Practical,Occupied
+D104,3,15,Engineering Physics Practical,Occupied
+D104,3,16,Engineering Physics Practical,Occupied
+D104,4,9,Environmental Studies Practical,Occupied
+D104,4,10,Environmental Studies Practical,Occupied
+D104,4,11,Environmental Studies Practical,Occupied
+D104,4,12,Lab Free / Preparation,Free
+D104,4,13,Lunch,Break
+D104,4,14,Lab Free / Preparation,Free
+D104,4,15,Lab Free / Preparation,Free
+D104,4,16,Lab Free / Preparation,Free
+D104,5,9,Engineering Physics Project Session,Occupied
+D104,5,10,Engineering Physics Project Session,Occupied
+D104,5,11,Engineering Physics Project Session,Occupied
+D104,5,12,Lab Closed,Free
+D104,5,13,Campus Closed (Weekend),Free
+D104,5,14,Campus Closed (Weekend),Free
+D104,5,15,Campus Closed (Weekend),Free
+D104,5,16,Campus Closed (Weekend),Free
+D104,6,9,Holiday / Campus Closed,Free
+D104,6,10,Holiday / Campus Closed,Free
+D104,6,11,Holiday / Campus Closed,Free
+D104,6,12,Holiday / Campus Closed,Free
+D104,6,13,Holiday / Campus Closed,Free
+D104,6,14,Holiday / Campus Closed,Free
+D104,6,15,Holiday / Campus Closed,Free
+D104,6,16,Holiday / Campus Closed,Free
+D201,0,9,Self-study / Library Hour,Free
+D201,0,10,Engineering Physics Lecture,Occupied
+D201,0,11,Engineering Chemistry Lecture,Occupied
+D201,0,12,Calculus and Linear Algebra Lecture,Occupied
+D201,0,13,Lunch,Break
+D201,0,14,Environmental Studies Lecture,Occupied
+D201,0,15,Engineering Physics Lecture,Occupied
+D201,0,16,Self-study / Library Hour,Free
+D201,1,9,Engineering Physics Lecture,Occupied
+D201,1,10,Self-study / Library Hour,Free
+D201,1,11,Calculus and Linear Algebra Lecture,Occupied
+D201,1,12,Technical English Lecture,Occupied
+D201,1,13,Lunch,Break
+D201,1,14,Engineering Physics Lecture,Occupied
+D201,1,15,Engineering Chemistry Lecture,Occupied
+D201,1,16,Calculus and Linear Algebra Lecture,Occupied
+D201,2,9,Engineering Chemistry Lecture,Occupied
+D201,2,10,Calculus and Linear Algebra Lecture,Occupied
+D201,2,11,Self-study / Library Hour,Free
+D201,2,12,Environmental Studies Lecture,Occupied
+D201,2,13,Lunch,Break
+D201,2,14,Engineering Chemistry Lecture,Occupied
+D201,2,15,Calculus and Linear Algebra Lecture,Occupied
+D201,2,16,Technical English Lecture,Occupied
+D201,3,9,Calculus and Linear Algebra Lecture,Occupied
+D201,3,10,Technical English Lecture,Occupied
+D201,3,11,Environmental Studies Lecture,Occupied
+D201,3,12,Self-study / Library Hour,Free
+D201,3,13,Lunch,Break
+D201,3,14,Calculus and Linear Algebra Lecture,Occupied
+D201,3,15,Technical English Lecture,Occupied
+D201,3,16,Self-study / Library Hour,Free
+D201,4,9,Technical English Lecture,Occupied
+D201,4,10,Environmental Studies Lecture,Occupied
+D201,4,11,Self-study / Library Hour,Free
+D201,4,12,Engineering Chemistry Lecture,Occupied
+D201,4,13,Lunch,Break
+D201,4,14,Technical English Lecture,Occupied
+D201,4,15,Environmental Studies Lecture,Occupied
+D201,4,16,Engineering Physics Lecture,Occupied
+D201,5,9,Engineering Physics Tutorial,Occupied
+D201,5,10,Engineering Physics Tutorial,Occupied
+D201,5,11,Engineering Physics Tutorial,Occupied
+D201,5,12,Free / Mentoring Slot,Free
+D201,5,13,Campus Closed (Weekend),Free
+D201,5,14,Campus Closed (Weekend),Free
+D201,5,15,Campus Closed (Weekend),Free
+D201,5,16,Campus Closed (Weekend),Free
+D201,6,9,Holiday / Campus Closed,Free
+D201,6,10,Holiday / Campus Closed,Free
+D201,6,11,Holiday / Campus Closed,Free
+D201,6,12,Holiday / Campus Closed,Free
+D201,6,13,Holiday / Campus Closed,Free
+D201,6,14,Holiday / Campus Closed,Free
+D201,6,15,Holiday / Campus Closed,Free
+D201,6,16,Holiday / Campus Closed,Free
+D202,0,9,Environmental Studies Lecture,Occupied
+D202,0,10,Engineering Physics Lecture,Occupied
+D202,0,11,Self-study / Library Hour,Free
+D202,0,12,Calculus and Linear Algebra Lecture,Occupied
+D202,0,13,Lunch,Break
+D202,0,14,Environmental Studies Lecture,Occupied
+D202,0,15,Engineering Physics Lecture,Occupied
+D202,0,16,Engineering Chemistry Lecture,Occupied
+D202,1,9,Engineering Physics Lecture,Occupied
+D202,1,10,Engineering Chemistry Lecture,Occupied
+D202,1,11,Calculus and Linear Algebra Lecture,Occupied
+D202,1,12,Self-study / Library Hour,Free
+D202,1,13,Lunch,Break
+D202,1,14,Engineering Physics Lecture,Occupied
+D202,1,15,Engineering Chemistry Lecture,Occupied
+D202,1,16,Calculus and Linear Algebra Lecture,Occupied
+D202,2,9,Engineering Chemistry Lecture,Occupied
+D202,2,10,Calculus and Linear Algebra Lecture,Occupied
+D202,2,11,Self-study / Library Hour,Free
+D202,2,12,Environmental Studies Lecture,Occupied
+D202,2,13,Lunch,Break
+D202,2,14,Engineering Chemistry Lecture,Occupied
+D202,2,15,Calculus and Linear Algebra Lecture,Occupied
+D202,2,16,Self-study / Library Hour,Free
+D202,3,9,Calculus and Linear Algebra Lecture,Occupied
+D202,3,10,Technical English Lecture,Occupied
+D202,3,11,Environmental Studies Lecture,Occupied
+D202,3,12,Engineering Physics Lecture,Occupied
+D202,3,13,Lunch,Break
+D202,3,14,Self-study / Library Hour,Free
+D202,3,15,Technical English Lecture,Occupied
+D202,3,16,Environmental Studies Lecture,Occupied
+D202,4,9,Self-study / Library Hour,Free
+D202,4,10,Environmental Studies Lecture,Occupied
+D202,4,11,Engineering Physics Lecture,Occupied
+D202,4,12,Engineering Chemistry Lecture,Occupied
+D202,4,13,Lunch,Break
+D202,4,14,Technical English Lecture,Occupied
+D202,4,15,Environmental Studies Lecture,Occupied
+D202,4,16,Engineering Physics Lecture,Occupied
+D202,5,9,Engineering Physics Tutorial,Occupied
+D202,5,10,Engineering Physics Tutorial,Occupied
+D202,5,11,Engineering Physics Tutorial,Occupied
+D202,5,12,Free / Mentoring Slot,Free
+D202,5,13,Campus Closed (Weekend),Free
+D202,5,14,Campus Closed (Weekend),Free
+D202,5,15,Campus Closed (Weekend),Free
+D202,5,16,Campus Closed (Weekend),Free
+D202,6,9,Holiday / Campus Closed,Free
+D202,6,10,Holiday / Campus Closed,Free
+D202,6,11,Holiday / Campus Closed,Free
+D202,6,12,Holiday / Campus Closed,Free
+D202,6,13,Holiday / Campus Closed,Free
+D202,6,14,Holiday / Campus Closed,Free
+D202,6,15,Holiday / Campus Closed,Free
+D202,6,16,Holiday / Campus Closed,Free
+D203,0,9,Lab Free / Preparation,Free
+D203,0,10,Lab Free / Preparation,Free
+D203,0,11,Lab Free / Preparation,Free
+D203,0,12,Lab Free / Preparation,Free
+D203,0,13,Lunch,Break
+D203,0,14,Calculus and Linear Algebra Practical,Occupied
+D203,0,15,Calculus and Linear Algebra Practical,Occupied
+D203,0,16,Calculus and Linear Algebra Practical,Occupied
+D203,1,9,Engineering Chemistry Practical,Occupied
+D203,1,10,Engineering Chemistry Practical,Occupied
+D203,1,11,Engineering Chemistry Practical,Occupied
+D203,1,12,Lab Free / Preparation,Free
+D203,1,13,Lunch,Break
+D203,1,14,Lab Free / Preparation,Free
+D203,1,15,Lab Free / Preparation,Free
+D203,1,16,Lab Free / Preparation,Free
+D203,2,9,Lab Free / Preparation,Free
+D203,2,10,Lab Free / Preparation,Free
+D203,2,11,Lab Free / Preparation,Free
+D203,2,12,Lab Free / Preparation,Free
+D203,2,13,Lunch,Break
+D203,2,14,Environmental Studies Practical,Occupied
+D203,2,15,Environmental Studies Practical,Occupied
+D203,2,16,Environmental Studies Practical,Occupied
+D203,3,9,Technical English Practical,Occupied
+D203,3,10,Technical English Practical,Occupied
+D203,3,11,Technical English Practical,Occupied
+D203,3,12,Lab Free / Preparation,Free
+D203,3,13,Lunch,Break
+D203,3,14,Lab Free / Preparation,Free
+D203,3,15,Lab Free / Preparation,Free
+D203,3,16,Lab Free / Preparation,Free
+D203,4,9,Lab Free / Preparation,Free
+D203,4,10,Lab Free / Preparation,Free
+D203,4,11,Lab Free / Preparation,Free
+D203,4,12,Lab Free / Preparation,Free
+D203,4,13,Lunch,Break
+D203,4,14,Engineering Chemistry Practical,Occupied
+D203,4,15,Engineering Chemistry Practical,Occupied
+D203,4,16,Engineering Chemistry Practical,Occupied
+D203,5,9,Engineering Physics Project Session,Occupied
+D203,5,10,Engineering Physics Project Session,Occupied
+D203,5,11,Engineering Physics Project Session,Occupied
+D203,5,12,Lab Closed,Free
+D203,5,13,Campus Closed (Weekend),Free
+D203,5,14,Campus Closed (Weekend),Free
+D203,5,15,Campus Closed (Weekend),Free
+D203,5,16,Campus Closed (Weekend),Free
+D203,6,9,Holiday / Campus Closed,Free
+D203,6,10,Holiday / Campus Closed,Free
+D203,6,11,Holiday / Campus Closed,Free
+D203,6,12,Holiday / Campus Closed,Free
+D203,6,13,Holiday / Campus Closed,Free
+D203,6,14,Holiday / Campus Closed,Free
+D203,6,15,Holiday / Campus Closed,Free
+D203,6,16,Holiday / Campus Closed,Free
+D204,0,9,Self-study / Library Hour,Free
+D204,0,10,Engineering Physics Lecture,Occupied
+D204,0,11,Engineering Chemistry Lecture,Occupied
+D204,0,12,Calculus and Linear Algebra Lecture,Occupied
+D204,0,13,Lunch,Break
+D204,0,14,Environmental Studies Lecture,Occupied
+D204,0,15,Engineering Physics Lecture,Occupied
+D204,0,16,Self-study / Library Hour,Free
+D204,1,9,Engineering Physics Lecture,Occupied
+D204,1,10,Self-study / Library Hour,Free
+D204,1,11,Calculus and Linear Algebra Lecture,Occupied
+D204,1,12,Technical English Lecture,Occupied
+D204,1,13,Lunch,Break
+D204,1,14,Engineering Physics Lecture,Occupied
+D204,1,15,Engineering Chemistry Lecture,Occupied
+D204,1,16,Calculus and Linear Algebra Lecture,Occupied
+D204,2,9,Engineering Chemistry Lecture,Occupied
+D204,2,10,Calculus and Linear Algebra Lecture,Occupied
+D204,2,11,Self-study / Library Hour,Free
+D204,2,12,Environmental Studies Lecture,Occupied
+D204,2,13,Lunch,Break
+D204,2,14,Engineering Chemistry Lecture,Occupied
+D204,2,15,Calculus and Linear Algebra Lecture,Occupied
+D204,2,16,Technical English Lecture,Occupied
+D204,3,9,Calculus and Linear Algebra Lecture,Occupied
+D204,3,10,Technical English Lecture,Occupied
+D204,3,11,Environmental Studies Lecture,Occupied
+D204,3,12,Self-study / Library Hour,Free
+D204,3,13,Lunch,Break
+D204,3,14,Calculus and Linear Algebra Lecture,Occupied
+D204,3,15,Technical English Lecture,Occupied
+D204,3,16,Self-study / Library Hour,Free
+D204,4,9,Technical English Lecture,Occupied
+D204,4,10,Environmental Studies Lecture,Occupied
+D204,4,11,Self-study / Library Hour,Free
+D204,4,12,Engineering Chemistry Lecture,Occupied
+D204,4,13,Lunch,Break
+D204,4,14,Technical English Lecture,Occupied
+D204,4,15,Environmental Studies Lecture,Occupied
+D204,4,16,Engineering Physics Lecture,Occupied
+D204,5,9,Engineering Physics Tutorial,Occupied
+D204,5,10,Engineering Physics Tutorial,Occupied
+D204,5,11,Engineering Physics Tutorial,Occupied
+D204,5,12,Free / Mentoring Slot,Free
+D204,5,13,Campus Closed (Weekend),Free
+D204,5,14,Campus Closed (Weekend),Free
+D204,5,15,Campus Closed (Weekend),Free
+D204,5,16,Campus Closed (Weekend),Free
+D204,6,9,Holiday / Campus Closed,Free
+D204,6,10,Holiday / Campus Closed,Free
+D204,6,11,Holiday / Campus Closed,Free
+D204,6,12,Holiday / Campus Closed,Free
+D204,6,13,Holiday / Campus Closed,Free
+D204,6,14,Holiday / Campus Closed,Free
+D204,6,15,Holiday / Campus Closed,Free
+D204,6,16,Holiday / Campus Closed,Free
+D301,0,9,Environmental Studies Lecture,Occupied
+D301,0,10,Engineering Physics Lecture,Occupied
+D301,0,11,Self-study / Library Hour,Free
+D301,0,12,Calculus and Linear Algebra Lecture,Occupied
+D301,0,13,Lunch,Break
+D301,0,14,Environmental Studies Lecture,Occupied
+D301,0,15,Engineering Physics Lecture,Occupied
+D301,0,16,Engineering Chemistry Lecture,Occupied
+D301,1,9,Engineering Physics Lecture,Occupied
+D301,1,10,Engineering Chemistry Lecture,Occupied
+D301,1,11,Calculus and Linear Algebra Lecture,Occupied
+D301,1,12,Self-study / Library Hour,Free
+D301,1,13,Lunch,Break
+D301,1,14,Engineering Physics Lecture,Occupied
+D301,1,15,Engineering Chemistry Lecture,Occupied
+D301,1,16,Calculus and Linear Algebra Lecture,Occupied
+D301,2,9,Engineering Chemistry Lecture,Occupied
+D301,2,10,Calculus and Linear Algebra Lecture,Occupied
+D301,2,11,Self-study / Library Hour,Free
+D301,2,12,Environmental Studies Lecture,Occupied
+D301,2,13,Lunch,Break
+D301,2,14,Engineering Chemistry Lecture,Occupied
+D301,2,15,Calculus and Linear Algebra Lecture,Occupied
+D301,2,16,Self-study / Library Hour,Free
+D301,3,9,Calculus and Linear Algebra Lecture,Occupied
+D301,3,10,Technical English Lecture,Occupied
+D301,3,11,Environmental Studies Lecture,Occupied
+D301,3,12,Engineering Physics Lecture,Occupied
+D301,3,13,Lunch,Break
+D301,3,14,Self-study / Library Hour,Free
+D301,3,15,Technical English Lecture,Occupied
+D301,3,16,Environmental Studies Lecture,Occupied
+D301,4,9,Self-study / Library Hour,Free
+D301,4,10,Environmental Studies Lecture,Occupied
+D301,4,11,Engineering Physics Lecture,Occupied
+D301,4,12,Engineering Chemistry Lecture,Occupied
+D301,4,13,Lunch,Break
+D301,4,14,Technical English Lecture,Occupied
+D301,4,15,Environmental Studies Lecture,Occupied
+D301,4,16,Engineering Physics Lecture,Occupied
+D301,5,9,Engineering Physics Tutorial,Occupied
+D301,5,10,Engineering Physics Tutorial,Occupied
+D301,5,11,Engineering Physics Tutorial,Occupied
+D301,5,12,Free / Mentoring Slot,Free
+D301,5,13,Campus Closed (Weekend),Free
+D301,5,14,Campus Closed (Weekend),Free
+D301,5,15,Campus Closed (Weekend),Free
+D301,5,16,Campus Closed (Weekend),Free
+D301,6,9,Holiday / Campus Closed,Free
+D301,6,10,Holiday / Campus Closed,Free
+D301,6,11,Holiday / Campus Closed,Free
+D301,6,12,Holiday / Campus Closed,Free
+D301,6,13,Holiday / Campus Closed,Free
+D301,6,14,Holiday / Campus Closed,Free
+D301,6,15,Holiday / Campus Closed,Free
+D301,6,16,Holiday / Campus Closed,Free
+D302,0,9,Environmental Studies Lecture,Occupied
+D302,0,10,Engineering Physics Lecture,Occupied
+D302,0,11,Self-study / Library Hour,Free
+D302,0,12,Calculus and Linear Algebra Lecture,Occupied
+D302,0,13,Lunch,Break
+D302,0,14,Environmental Studies Lecture,Occupied
+D302,0,15,Engineering Physics Lecture,Occupied
+D302,0,16,Engineering Chemistry Lecture,Occupied
+D302,1,9,Engineering Physics Lecture,Occupied
+D302,1,10,Engineering Chemistry Lecture,Occupied
+D302,1,11,Calculus and Linear Algebra Lecture,Occupied
+D302,1,12,Technical English Lecture,Occupied
+D302,1,13,Lunch,Break
+D302,1,14,Self-study / Library Hour,Free
+D302,1,15,Engineering Chemistry Lecture,Occupied
+D302,1,16,Self-study / Library Hour,Free
+D302,2,9,Self-study / Library Hour,Free
+D302,2,10,Calculus and Linear Algebra Lecture,Occupied
+D302,2,11,Technical English Lecture,Occupied
+D302,2,12,Environmental Studies Lecture,Occupied
+D302,2,13,Lunch,Break
+D302,2,14,Engineering Chemistry Lecture,Occupied
+D302,2,15,Calculus and Linear Algebra Lecture,Occupied
+D302,2,16,Technical English Lecture,Occupied
+D302,3,9,Calculus and Linear Algebra Lecture,Occupied
+D302,3,10,Self-study / Library Hour,Free
+D302,3,11,Environmental Studies Lecture,Occupied
+D302,3,12,Engineering Physics Lecture,Occupied
+D302,3,13,Lunch,Break
+D302,3,14,Calculus and Linear Algebra Lecture,Occupied
+D302,3,15,Technical English Lecture,Occupied
+D302,3,16,Environmental Studies Lecture,Occupied
+D302,4,9,Technical English Lecture,Occupied
+D302,4,10,Environmental Studies Lecture,Occupied
+D302,4,11,Self-study / Library Hour,Free
+D302,4,12,Engineering Chemistry Lecture,Occupied
+D302,4,13,Lunch,Break
+D302,4,14,Technical English Lecture,Occupied
+D302,4,15,Environmental Studies Lecture,Occupied
+D302,4,16,Self-study / Library Hour,Free
+D302,5,9,Engineering Physics Tutorial,Occupied
+D302,5,10,Engineering Physics Tutorial,Occupied
+D302,5,11,Engineering Physics Tutorial,Occupied
+D302,5,12,Free / Mentoring Slot,Free
+D302,5,13,Campus Closed (Weekend),Free
+D302,5,14,Campus Closed (Weekend),Free
+D302,5,15,Campus Closed (Weekend),Free
+D302,5,16,Campus Closed (Weekend),Free
+D302,6,9,Holiday / Campus Closed,Free
+D302,6,10,Holiday / Campus Closed,Free
+D302,6,11,Holiday / Campus Closed,Free
+D302,6,12,Holiday / Campus Closed,Free
+D302,6,13,Holiday / Campus Closed,Free
+D302,6,14,Holiday / Campus Closed,Free
+D302,6,15,Holiday / Campus Closed,Free
+D302,6,16,Holiday / Campus Closed,Free
+D303,0,9,Lab Free / Preparation,Free
+D303,0,10,Lab Free / Preparation,Free
+D303,0,11,Lab Free / Preparation,Free
+D303,0,12,Lab Free / Preparation,Free
+D303,0,13,Lunch,Break
+D303,0,14,Calculus and Linear Algebra Practical,Occupied
+D303,0,15,Calculus and Linear Algebra Practical,Occupied
+D303,0,16,Calculus and Linear Algebra Practical,Occupied
+D303,1,9,Engineering Chemistry Practical,Occupied
+D303,1,10,Engineering Chemistry Practical,Occupied
+D303,1,11,Engineering Chemistry Practical,Occupied
+D303,1,12,Lab Free / Preparation,Free
+D303,1,13,Lunch,Break
+D303,1,14,Lab Free / Preparation,Free
+D303,1,15,Lab Free / Preparation,Free
+D303,1,16,Lab Free / Preparation,Free
+D303,2,9,Lab Free / Preparation,Free
+D303,2,10,Lab Free / Preparation,Free
+D303,2,11,Lab Free / Preparation,Free
+D303,2,12,Lab Free / Preparation,Free
+D303,2,13,Lunch,Break
+D303,2,14,Environmental Studies Practical,Occupied
+D303,2,15,Environmental Studies Practical,Occupied
+D303,2,16,Environmental Studies Practical,Occupied
+D303,3,9,Technical English Practical,Occupied
+D303,3,10,Technical English Practical,Occupied
+D303,3,11,Technical English Practical,Occupied
+D303,3,12,Lab Free / Preparation,Free
+D303,3,13,Lunch,Break
+D303,3,14,Lab Free / Preparation,Free
+D303,3,15,Lab Free / Preparation,Free
+D303,3,16,Lab Free / Preparation,Free
+D303,4,9,Lab Free / Preparation,Free
+D303,4,10,Lab Free / Preparation,Free
+D303,4,11,Lab Free / Preparation,Free
+D303,4,12,Lab Free / Preparation,Free
+D303,4,13,Lunch,Break
+D303,4,14,Engineering Chemistry Practical,Occupied
+D303,4,15,Engineering Chemistry Practical,Occupied
+D303,4,16,Engineering Chemistry Practical,Occupied
+D303,5,9,Engineering Physics Project Session,Occupied
+D303,5,10,Engineering Physics Project Session,Occupied
+D303,5,11,Engineering Physics Project Session,Occupied
+D303,5,12,Lab Closed,Free
+D303,5,13,Campus Closed (Weekend),Free
+D303,5,14,Campus Closed (Weekend),Free
+D303,5,15,Campus Closed (Weekend),Free
+D303,5,16,Campus Closed (Weekend),Free
+D303,6,9,Holiday / Campus Closed,Free
+D303,6,10,Holiday / Campus Closed,Free
+D303,6,11,Holiday / Campus Closed,Free
+D303,6,12,Holiday / Campus Closed,Free
+D303,6,13,Holiday / Campus Closed,Free
+D303,6,14,Holiday / Campus Closed,Free
+D303,6,15,Holiday / Campus Closed,Free
+D303,6,16,Holiday / Campus Closed,Free
+D304,0,9,Faculty Lounge Regular Hours,Occupied
+D304,0,10,Faculty Lounge Regular Hours,Occupied
+D304,0,11,Faculty Lounge Regular Hours,Occupied
+D304,0,12,Faculty Lounge Regular Hours,Occupied
+D304,0,13,Lunch,Break
+D304,0,14,Faculty Lounge Regular Hours,Occupied
+D304,0,15,Faculty Lounge Regular Hours,Occupied
+D304,0,16,Faculty Lounge Regular Hours,Occupied
+D304,1,9,Faculty Lounge Regular Hours,Occupied
+D304,1,10,Faculty Lounge Regular Hours,Occupied
+D304,1,11,Faculty Lounge Regular Hours,Occupied
+D304,1,12,Faculty Lounge Regular Hours,Occupied
+D304,1,13,Lunch,Break
+D304,1,14,Faculty Lounge Regular Hours,Occupied
+D304,1,15,Faculty Lounge Regular Hours,Occupied
+D304,1,16,Faculty Lounge Regular Hours,Occupied
+D304,2,9,Faculty Lounge Regular Hours,Occupied
+D304,2,10,Faculty Lounge Regular Hours,Occupied
+D304,2,11,Faculty Lounge Regular Hours,Occupied
+D304,2,12,Faculty Lounge Regular Hours,Occupied
+D304,2,13,Lunch,Break
+D304,2,14,Faculty Lounge Regular Hours,Occupied
+D304,2,15,Faculty Lounge Regular Hours,Occupied
+D304,2,16,Faculty Lounge Regular Hours,Occupied
+D304,3,9,Faculty Lounge Regular Hours,Occupied
+D304,3,10,Faculty Lounge Regular Hours,Occupied
+D304,3,11,Faculty Lounge Regular Hours,Occupied
+D304,3,12,Faculty Lounge Regular Hours,Occupied
+D304,3,13,Lunch,Break
+D304,3,14,Faculty Lounge Regular Hours,Occupied
+D304,3,15,Faculty Lounge Regular Hours,Occupied
+D304,3,16,Faculty Lounge Regular Hours,Occupied
+D304,4,9,Faculty Lounge Regular Hours,Occupied
+D304,4,10,Faculty Lounge Regular Hours,Occupied
+D304,4,11,Faculty Lounge Regular Hours,Occupied
+D304,4,12,Faculty Lounge Regular Hours,Occupied
+D304,4,13,Lunch,Break
+D304,4,14,Faculty Lounge Regular Hours,Occupied
+D304,4,15,Faculty Lounge Regular Hours,Occupied
+D304,4,16,Faculty Lounge Regular Hours,Occupied
+D304,5,9,Faculty Lounge Half-Day Hours,Occupied
+D304,5,10,Faculty Lounge Half-Day Hours,Occupied
+D304,5,11,Faculty Lounge Half-Day Hours,Occupied
+D304,5,12,Faculty Lounge Half-Day Hours,Occupied
+D304,5,13,Campus Closed (Weekend),Free
+D304,5,14,Campus Closed (Weekend),Free
+D304,5,15,Campus Closed (Weekend),Free
+D304,5,16,Campus Closed (Weekend),Free
+D304,6,9,Holiday / Campus Closed,Free
+D304,6,10,Holiday / Campus Closed,Free
+D304,6,11,Holiday / Campus Closed,Free
+D304,6,12,Holiday / Campus Closed,Free
+D304,6,13,Holiday / Campus Closed,Free
+D304,6,14,Holiday / Campus Closed,Free
+D304,6,15,Holiday / Campus Closed,Free
+D304,6,16,Holiday / Campus Closed,Free

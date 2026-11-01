@@ -9,7 +9,7 @@ from sqlalchemy.orm import Session
 
 from ..auth import get_current_user
 from ..database import get_db
-from ..models import Alert, Reading, Room
+from ..models import Alert, Department, Reading, Room
 from ..schemas import AssistantQuery
 from ..simulator import SIM
 
@@ -53,15 +53,18 @@ def overview(u: dict = Depends(get_current_user), db: Session = Depends(get_db))
     ).filter(Reading.room_id.in_(ids), Reading.ts == latest).scalar()
 
     rows = (
-        db.query(Reading.ts, Reading.energy_kwh, Room.block)
-        .join(Room)
+        db.query(Reading.ts, Reading.energy_kwh, Room.block, Department.name)
+        .join(Room, Reading.room_id == Room.id)
+        .outerjoin(Department, Room.department_id == Department.id)
         .filter(Reading.room_id.in_(ids), Reading.ts >= d0)
         .all()
     )
-    hourly, blocks = {}, {}
-    for ts, e, b in rows:
+    hourly, blocks, departments = {}, {}, {}
+    for ts, e, b, dname in rows:
         hourly[ts.hour] = hourly.get(ts.hour, 0) + e
         blocks[b] = blocks.get(b, 0) + e
+        dept_label = dname or "Unassigned"
+        departments[dept_label] = departments.get(dept_label, 0) + e
 
     now = time.time()
     return {
@@ -81,6 +84,8 @@ def overview(u: dict = Depends(get_current_user), db: Session = Depends(get_db))
                    for h, v in sorted(hourly.items())],
         "blocks": [{"block": b, "kwh": round(v, 1)}
                    for b, v in sorted(blocks.items())],
+        "departments": [{"department": d, "kwh": round(v, 1)}
+                        for d, v in sorted(departments.items(), key=lambda x: -x[1])],
         "sim": SIM["on"],
     }
 
@@ -119,6 +124,23 @@ def assistant(body: AssistantQuery, u: dict = Depends(get_current_user),
     if "block" in q and o["blocks"]:
         top = max(o["blocks"], key=lambda x: x["kwh"])
         return {"a": f"Block {top['block']} has used the most today: {top['kwh']} kWh."}
+    if "department" in q or "dept" in q:
+        if o.get("departments"):
+            top = max(o["departments"], key=lambda x: x["kwh"])
+            return {"a": f"{top['department']} has consumed the most power today: {top['kwh']} kWh."}
+    if "seminar" in q or "b101" in q:
+        # Check alerts specifically for B101 seminar hall
+        b101_alert = (
+            db.query(Alert, Room.name)
+            .join(Room)
+            .filter(Room.name == "B101", Alert.status == "open")
+            .order_by(Alert.id.desc())
+            .first()
+        )
+        if b101_alert:
+            a, rname = b101_alert
+            return {"a": f"Alert for B101 (Seminar Hall): {a.kind}. {a.explanation} Action: {a.action}"}
+        return {"a": "The B101 Seminar Hall currently has no open alerts and normal baseline draw."}
     if "room" in q or "most" in q or "highest" in q:
         ids, _, d0, _, _ = _totals(db, _my_rooms(db, u))
         r = (

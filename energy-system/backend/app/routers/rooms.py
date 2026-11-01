@@ -7,7 +7,7 @@ from sqlalchemy.orm import Session
 
 from ..auth import get_current_user
 from ..database import get_db
-from ..models import Reading, Room
+from ..models import Department, Reading, Room
 
 router = APIRouter(prefix="/api", tags=["rooms"])
 
@@ -36,12 +36,14 @@ def list_rooms(u: dict = Depends(get_current_user), db: Session = Depends(get_db
             .order_by(Reading.ts.desc())
             .first()
         )
+        dept_name = r.department.name if r.department else "Unassigned"
         out.append({
             "id": r.id,
             "name": r.name,
             "block": r.block,
             "floor": r.floor,
             "type": r.rtype,
+            "department": dept_name,
             "meter": r.meter_id,
             "power": latest.power_kw if latest else None,
             "status": latest.status if latest else None,

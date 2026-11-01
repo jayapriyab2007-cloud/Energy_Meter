@@ -30,7 +30,7 @@ def get_timetable(rid: int, u: dict = Depends(get_current_user),
                   db: Session = Depends(get_db)):
     _room_ok(db, u, rid)
     return [
-        {"day": t.day, "hour": t.hour, "status": t.status}
+        {"day": t.day, "hour": t.hour, "status": t.status, "activity": t.activity}
         for t in db.query(Timetable).filter_by(room_id=rid)
     ]
 
