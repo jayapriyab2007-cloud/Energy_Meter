@@ -40,6 +40,7 @@ from .routers import (
     meters_router,
     devices_router,
     demo_router,
+    manual_readings_router,
 )
 
 app = FastAPI(
@@ -75,6 +76,7 @@ for r in (
     meters_router,
     devices_router,
     demo_router,
+    manual_readings_router,
 ):
     app.include_router(r)
 

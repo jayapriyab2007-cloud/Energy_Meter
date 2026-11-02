@@ -8,6 +8,11 @@ from ..simulator import SIM
 router = APIRouter(prefix="/api/sim", tags=["simulator"])
 
 
+@router.get("/status")
+def sim_status(_u: dict = Depends(require_admin)):
+    return {"on": SIM["on"]}
+
+
 @router.post("/inject/anomaly")
 def inject_anomaly(body: InjectRequest, _u: dict = Depends(require_admin)):
     SIM["inject"][body.room_id] = body.ticks

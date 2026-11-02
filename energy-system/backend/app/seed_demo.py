@@ -198,18 +198,19 @@ def seed_demo(db: Session, force: bool = False) -> None:
         for t in db.query(Timetable).all():
             room_tt_status[(t.room_id, t.day, t.hour)] = t.status
 
-    # 4. Seed 14 Days History (Hourly, up to today 00:00)
+    # 4. Seed 14 Days History (Hourly, up to current hour)
     existing_readings = db.query(Reading).count()
     if existing_readings == 0:
         print("[seed_demo] Seeding 14 days of historical readings...")
-        today_start = dt.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+        now_dt = dt.datetime.now()
+        today_start = now_dt.replace(hour=0, minute=0, second=0, microsecond=0)
         start_date = today_start - dt.timedelta(days=14)
 
         readings_to_add = []
         curr = start_date
         all_rooms = list(room_code_to_obj.values())
 
-        while curr < today_start:
+        while curr <= now_dt:
             day = curr.weekday()
             hour = curr.hour
             for rm in all_rooms:

@@ -306,4 +306,5 @@ class IngestRequest(BaseModel):
 
 class AssistantQuery(BaseModel):
     q: str = Field(..., min_length=1)
+    context: Optional[dict] = None
 

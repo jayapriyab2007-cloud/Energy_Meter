@@ -115,61 +115,6 @@ def forecast(u: dict = Depends(get_current_user), db: Session = Depends(get_db))
 @router.post("/assistant")
 def assistant(body: AssistantQuery, u: dict = Depends(get_current_user),
               db: Session = Depends(get_db)):
-    q = body.q.lower()
-    o = overview(u, db)
-
-    if "bill" in q or "cost" in q:
-        return {"a": (f"Estimated bill this month so far: Rs {o['est_bill']:,} "
-                      f"({o['month_kwh']} kWh at Rs {TARIFF}/kWh). This is an estimate.")}
-    if "block" in q and o["blocks"]:
-        top = max(o["blocks"], key=lambda x: x["kwh"])
-        return {"a": f"Block {top['block']} has used the most today: {top['kwh']} kWh."}
-    if "department" in q or "dept" in q:
-        if o.get("departments"):
-            top = max(o["departments"], key=lambda x: x["kwh"])
-            return {"a": f"{top['department']} has consumed the most power today: {top['kwh']} kWh."}
-    if "seminar" in q or "b101" in q:
-        # Check alerts specifically for B101 seminar hall
-        b101_alert = (
-            db.query(Alert, Room.name)
-            .join(Room)
-            .filter(Room.name == "B101", Alert.status == "open")
-            .order_by(Alert.id.desc())
-            .first()
-        )
-        if b101_alert:
-            a, rname = b101_alert
-            return {"a": f"Alert for B101 (Seminar Hall): {a.kind}. {a.explanation} Action: {a.action}"}
-        return {"a": "The B101 Seminar Hall currently has no open alerts and normal baseline draw."}
-    if "room" in q or "most" in q or "highest" in q:
-        ids, _, d0, _, _ = _totals(db, _my_rooms(db, u))
-        r = (
-            db.query(Room.name, func.sum(Reading.energy_kwh))
-            .join(Reading)
-            .filter(Reading.ts >= d0, Room.id.in_(ids))
-            .group_by(Room.name)
-            .order_by(func.sum(Reading.energy_kwh).desc())
-            .first()
-        )
-        return {"a": f"Highest room today: {r[0]} with {r[1]:.1f} kWh." if r else "No data yet."}
-    if "alert" in q or "why" in q or "anomal" in q:
-        ids2 = [r.id for r in _my_rooms(db, u)]
-        open_alerts = (
-            db.query(Alert, Room.name)
-            .join(Room)
-            .filter(Alert.room_id.in_(ids2), Alert.status == "open")
-            .order_by(Alert.id.desc())
-            .limit(1)
-            .all()
-        )
-        if open_alerts:
-            a, rname = open_alerts[0]
-            return {"a": f"{rname}: {a.kind}. {a.explanation}"}
-        return {"a": "There are no open alerts."}
-    if "power" in q or "demand" in q:
-        return {"a": f"Current demand is {o['current_kw']} kW across {o['meters']} meters."}
-    return {
-        "a": (f"Today: {o['today_kwh']} kWh used, {o['current_kw']} kW now, "
-              f"{o['open_alerts']} open alerts. Ask about bill, block, room, alerts or demand.")
-    }
+    from ..services.assistant_engine import answer_assistant_query
+    return answer_assistant_query(body.q, u, db, body.context)
 

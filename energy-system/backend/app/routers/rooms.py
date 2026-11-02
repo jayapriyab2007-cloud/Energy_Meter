@@ -37,6 +37,9 @@ def list_rooms(u: dict = Depends(get_current_user), db: Session = Depends(get_db
             .first()
         )
         dept_name = r.department.name if r.department else "Unassigned"
+        src = "simulated"
+        if latest:
+            src = latest.data_source or ("simulated" if latest.simulated else "hardware")
         out.append({
             "id": r.id,
             "name": r.name,
@@ -47,7 +50,7 @@ def list_rooms(u: dict = Depends(get_current_user), db: Session = Depends(get_db
             "meter": r.meter_id,
             "power": latest.power_kw if latest else None,
             "status": latest.status if latest else None,
-            "source": "simulated" if latest and latest.simulated else "hardware",
+            "source": src,
         })
     return out
 
@@ -65,9 +68,14 @@ def room_live(rid: int, u: dict = Depends(get_current_user),
     )
     return {
         "room": r.name,
-        "online": time.time() - (r.last_seen or 0) < 30,
+        "online": time.time() - (r.last_seen or 0) < 60,
         "points": [
-            {"t": x.ts.strftime("%a %H:%M"), "kw": x.power_kw, "status": x.status}
+            {
+                "t": x.ts.strftime("%a %H:%M"),
+                "kw": x.power_kw,
+                "status": x.status,
+                "source": x.data_source or ("simulated" if x.simulated else "hardware"),
+            }
             for x in rows
         ],
     }

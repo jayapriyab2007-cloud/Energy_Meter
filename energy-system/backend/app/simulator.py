@@ -209,9 +209,16 @@ def ingest(
     p: float,
     hours: float,
     sim: bool = True,
+    data_source: Optional[str] = None,
+    voltage: Optional[float] = None,
+    current_a: Optional[float] = None,
 ) -> None:
-    """Ingest a room reading and run anomaly detection."""
+    """Ingest a room reading and run anomaly detection.
+
+    data_source: 'simulated', 'hardware', or 'manual'.
+    """
     st = status_at(db, room.id, ts)
+    source_str = data_source or ("simulated" if sim else "hardware")
     db.add(
         Reading(
             room_id=room.id,
@@ -220,6 +227,9 @@ def ingest(
             energy_kwh=round(p * hours, 4),
             status=st,
             simulated=sim,
+            data_source=source_str,
+            voltage=voltage,
+            current_a=current_a,
         )
     )
     room.last_seen = time.time()

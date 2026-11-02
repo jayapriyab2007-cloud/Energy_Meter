@@ -124,6 +124,9 @@ class Reading(Base):
     energy_kwh = Column(Float)
     status = Column(String)
     simulated = Column(Boolean, default=True)
+    data_source = Column(String, default="simulated")  # "simulated", "hardware", "manual"
+    voltage = Column(Float, nullable=True)
+    current_a = Column(Float, nullable=True)
 
 
 class Alert(Base):

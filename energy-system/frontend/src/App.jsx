@@ -1,6 +1,7 @@
 import {useState,useEffect} from 'react'
 import {LineChart,Line,BarChart,Bar,XAxis,YAxis,Tooltip,ResponsiveContainer,CartesianGrid} from 'recharts'
 import CampusManagement from './pages/CampusManagement'
+import InputData from './pages/InputData'
 
 let TOKEN=localStorage.getItem('t')
 const api=async(p,o={})=>{const r=await fetch('/api'+p,{...o,headers:{'Content-Type':'application/json',Authorization:'Bearer '+TOKEN},body:o.body&&JSON.stringify(o.body)});if(!r.ok)throw new Error((await r.json().catch(()=>({}))).detail||r.status);return r.json()}
@@ -208,15 +209,103 @@ function Timetable({admin}){
 }
 
 function Assistant(){
-  const[m,setM]=useState([{a:'Hello! Ask about campus electricity usage, highest consuming blocks/departments, alerts for the B101 seminar hall, or current power demand.'}]);const[q,setQ]=useState('')
-  const send=async e=>{e.preventDefault();if(!q)return;const x=q;setQ('');setM(m=>[...m,{u:x}]);const r=await api('/assistant',{method:'POST',body:{q:x}});setM(m=>[...m,{a:r.a}])}
+  const[m,setM]=useState([{
+    a:'Hello! Ask about energy usage, power demand, alerts, or schedules for any room, floor, block, or department across campus.',
+    scope:'Campus-wide'
+  }]);
+  const[q,setQ]=useState('');
+  const[ctx,setCtx]=useState(null);
+  const[loading,setLoading]=useState(false);
+  const[err,setErr]=useState('');
+
+  const sampleChips = [
+    "Which block uses the most power today?",
+    "Why was an alert raised for A204?",
+    "Why was an alert raised for the seminar hall?",
+    "Is B101 free now?",
+    "Compare CSE and ECE this week",
+    "Which rooms are offline?"
+  ];
+
+  const askQuery = async (queryText) => {
+    if(!queryText || loading) return;
+    setErr('');
+    setLoading(true);
+    setM(prev => [...prev, { u: queryText }]);
+    setQ('');
+
+    try {
+      const res = await api('/assistant', {
+        method: 'POST',
+        body: { q: queryText, context: ctx }
+      });
+      setM(prev => [...prev, { a: res.a, scope: res.scope }]);
+      if (res.context) setCtx(res.context);
+    } catch (e) {
+      setErr(e.message || 'Error contacting assistant');
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const send = (e) => {
+    e.preventDefault();
+    askQuery(q);
+  };
+
   return<>
-  <h2>College energy assistant</h2>
+  <h2>Campus energy assistant</h2>
+  <p style={{color:'var(--mut)',marginBottom:12}}>
+    Natural language intelligence powered by permission-checked database queries. All costs are estimates.
+  </p>
+
+  <div className="row" style={{gap:6,marginBottom:14,flexWrap:'wrap'}}>
+    <span style={{fontSize:12,color:'var(--mut)',alignSelf:'center'}}>Suggested:</span>
+    {sampleChips.map((chip, idx) => (
+      <button
+        key={idx}
+        className="btn alt"
+        style={{padding:'3px 9px',fontSize:12,borderRadius:12}}
+        onClick={() => askQuery(chip)}
+        disabled={loading}
+      >
+        {chip}
+      </button>
+    ))}
+  </div>
+
   <div className="card">
-    <div className="chat">{m.map((x,i)=><div key={i} className={x.u?'u':'a'}>{x.u||x.a}</div>)}</div>
-    <form className="row" onSubmit={send}>
-      <input style={{flex:1}} value={q} onChange={e=>setQ(e.target.value)} placeholder="e.g. Which block uses the most power? or Why was an alert raised for the seminar hall?"/>
-      <button className="btn">Ask</button>
+    <div className="chat" style={{minHeight:220}}>
+      {m.map((x,i)=>(
+        <div key={i} className={x.u?'u':'a'}>
+          <div style={{whiteSpace:'pre-wrap'}}>{x.u||x.a}</div>
+          {x.scope && (
+            <div style={{marginTop:4}}>
+              <span className="tag" style={{fontSize:10,background:'rgba(0,0,0,0.06)'}}>
+                Scope: {x.scope}
+              </span>
+            </div>
+          )}
+        </div>
+      ))}
+      {loading && (
+        <div className="a" style={{fontStyle:'italic',color:'var(--mut)'}}>
+          Analyzing energy records...
+        </div>
+      )}
+    </div>
+
+    {err && <div className="card alert High" style={{margin:'8px 0',padding:8,fontSize:13}}>{err}</div>}
+
+    <form className="row" onSubmit={send} style={{marginTop:10}}>
+      <input
+        style={{flex:1}}
+        value={q}
+        onChange={e=>setQ(e.target.value)}
+        placeholder="e.g. Status of A204, How much power did Civil use today?, or Compare CSE vs ECE"
+        disabled={loading}
+      />
+      <button className="btn" disabled={loading || !q.trim()}>Ask</button>
     </form>
   </div>
   </>
@@ -248,9 +337,10 @@ export default function App(){
     Alerts,
     Timetable,
     'Campus':CampusManagement,
-    Assistant
+    Assistant,
+    ...(admin ? {'Input data': InputData} : {})
   };
-  const T=tabs[tab]
+  const T=tabs[tab] || Overview
   return (
     <div className="app">
       <nav>
@@ -259,7 +349,7 @@ export default function App(){
         {admin&&<button onClick={async()=>setSim(await api('/sim/'+(sim?'stop':'start'),{method:'POST'}))}>{sim?'Stop simulator':'Start simulator'}</button>}
         <button onClick={()=>{localStorage.clear();TOKEN=null;setRole(null)}} style={{marginTop:'auto'}}>Sign out</button>
       </nav>
-      <main><T admin={admin}/></main>
+      <main><T admin={admin} setTab={setTab}/></main>
     </div>
   )
 }
